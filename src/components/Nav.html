@@ -1,56 +1,190 @@
 <nav>
-	<ul>
-		<li><a class='{segment === undefined ? "selected" : ""}' href='.'>home</a></li>
-		<li><a class='{segment === "about" ? "selected" : ""}' href='about'>about</a></li>
+	<img src="https://opengameart.org/sites/all/themes/oga/images/title.png">
+	<ul class:open="open">
+		<li class="toggler"><a on:click="set({open: !open})">Menu</a></li> <!--should be an icon-->
+		<li class="link"><a class='{segment === undefined ? "selected" : ""}' href='.'>Home</a></li>
+		<li class="link">
+			<a class='{segment === "about" ? "selected" : ""}' href='about'>Browse</a>
+			<ul class="submenu">
+				<li><a href='about'>2D Art</a></li>
+				<li><a href='about'>3D Art</a></li>
+				<li><a href='about'>Concept Art</a></li>
+				<li><a href='about'>Textures</a></li>
+				<li><a href='about'>Music</a></li>
+				<li><a href='about'>Sound Effects</a></li>
+				<li><a href='about'>Documents</a></li>
+				<li><a href='about'>Featured Tutorials</a></li>
+			</ul>
+		</li>
+		<li class="link"><a class='{segment === "about" ? "selected" : ""}' href='about'>Submit Art</a></li>
+		<li class="link"><a class='{segment === "about" ? "selected" : ""}' href='about'>Collect</a></li>
+		<li class="link"><a class='{segment === "about" ? "selected" : ""}' href='about'>Forums</a></li>
+		<li class="link"><a class='{segment === "about" ? "selected" : ""}' href='about'>FAQ</a></li>
+		<li class="link"><a class='{segment === "about" ? "selected" : ""}' href='about'>Leaderboards</a></li>
+		<li class="search">
+			<form action="search">
+				<input type="search" placeholder="...">
+				<input type="submit" value="Search">
+			</form>
+		</li>
+		<li class="user-toggler">
+			<a on:click="set({userOpen: !userOpen})">Login</a>
+			<div class="user-details" class:open="userOpen">
+				Login/logout/user info
+			</div>
+		</li> <!--should be an icon-->
 
 		<!-- for the blog link, we're using rel=prefetch so that Sapper prefetches
 		     the blog data when we hover over the link or tap it on a touchscreen -->
-		<li><a rel=prefetch class='{segment === "blog" ? "selected" : ""}' href='blog'>blog</a></li>
+		<!--<li><a rel=prefetch class='{segment === "blog" ? "selected" : ""}' href='blog'>blog</a></li>-->
 	</ul>
 </nav>
 
 <style>
+	img {
+		max-width: 100%;
+		margin: 0.7em 0;
+	}
+
 	nav {
-		border-bottom: 1px solid rgba(170,30,30,0.1);
-		font-weight: 300;
 		padding: 0 1em;
+
+		background: #3b5170;
+		font-weight: bold;
+		color: white;
 	}
 
 	ul {
 		margin: 0;
 		padding: 0;
+		list-style-type: none;
 	}
 
-	/* clearfix */
-	ul::after {
-		content: '';
-		display: block;
-		clear: both;
+	nav > ul {
+		display: flex;
+		flex-wrap: wrap;
 	}
 
-	li {
-		display: block;
-		float: left;
-	}
-
-	.selected {
-		position: relative;
-		display: inline-block;
-	}
-
-	.selected::after {
+	ul.submenu {
 		position: absolute;
-		content: '';
-		width: calc(100% - 1em);
-		height: 2px;
-		background-color: rgb(170,30,30);
+		top: 100%;
+		background: #3b5170;
+		display: none;
+		z-index: 1;
+	}
+
+	li:hover .submenu {
 		display: block;
-		bottom: -1px;
+	}
+
+	.submenu a {
+		padding: 0.25em 1.0em;
+	}
+
+	li.toggler {
+		display : none;
+	}
+
+	li.link, li.user-toggler {
+		position: relative;
+	}
+
+	.selected, a:hover, input[type=submit]:hover {
+		background: rgba(4, 4, 4, 0.4);
 	}
 
 	a {
+		white-space: nowrap;
 		text-decoration: none;
-		padding: 1em 0.5em;
+		padding: 0.7em 1em;
 		display: block;
+		transition-duration: 0.5s;
+	}
+
+	.search {
+		margin-left: auto;
+	}
+
+	.search form {
+		height: 100%;
+		display: flex;
+	}
+
+	input[type=search] {
+		font: inherit;
+		border: 1px solid #3b5170;
+		background: white;
+		padding: 0.5em;
+
+		flex: 1;
+	}
+
+	input[type=submit] {
+		font: inherit;
+		color: inherit;
+		border: none;
+		background: none;
+	}
+
+	.user-details {
+		position: absolute;
+		top: 100%;
+		background: #3b5170;
+		display: none;
+		z-index: 1;
+	}
+
+	.user-details.open {
+		display: block;
+		right: 0;
+		padding: 1em;
+	}
+
+	@media (max-width: 1024px) {
+		.search {
+			flex: 1;
+			order: 2;
+		}
+
+		.user-toggler {
+			margin-left: auto;
+		}
+	}
+
+	@media (max-width: 600px) {
+
+		ul.submenu {
+			display: block;
+			position: static;
+			margin-left: 2em;
+		}
+
+		li.link {
+			display: none;
+		}
+
+		ul.open > li.link {
+			display: block;
+		}
+
+		li.toggler {
+			display: inline-block;
+		}
+
+		li.link {
+			width: 100%;
+		}
+
 	}
 </style>
+
+<script>
+	export default {
+		data() {
+			return {
+				open: false,
+				userOpen: false
+			};
+		}
+	}
+</script>
