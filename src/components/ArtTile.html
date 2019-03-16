@@ -1,50 +1,39 @@
-<a class="art {size}" href="content/{item.alias}">
-	<figure>
+<figure class="{size}">
+	<a class="{size}" href="content/{item.alias}">
 		<div class="square-pad">
 			<img alt="Preview" src="{item.images[size]}">
 		</div>
-		<figcaption>
-			{item.name}
-			<div class="author">by <a href="users/{item.author.username}">{item.author.name}</a></div>
-		</figcaption>
-	</figure>
-</a>
+	</a>
+	<figcaption>
+		<a href="content/{item.alias}">{item.name}</a>
+		<div class="author">by <a href="users/{item.author.username}">{item.author.name}</a></div>
+	</figcaption>
+</figure>
 
 <style>
-	.art {
-		color: inherit;
-		margin: 0.5em;
-	}
-
-	.art.large {
+	.large {
+		width: 383px;
 		max-width: 100%;
 	}
 
-	.art.medium {
+	.medium {
+		width: 258px;
 		max-width: calc(50% - 1em);
 	}
 
 	figure {
+		margin: 0.5em;
 		padding: 4px;
 		border-radius: 4px;
 		background: white;
 
 		box-shadow: 1px 1px 2px 1px rgba(0, 0, 0, 0.1);
-		margin: 0;
 		max-width: 100%;
 		box-sizing: border-box;
 	}
 
 	figure:hover {
 		box-shadow: 1px 1px 4px 2px rgba(0, 0, 0, 0.2);
-	}
-
-	.medium figure {
-		width: 258px;
-	}
-
-	.large figure {
-		width: 383px;
 	}
 
 	.square-pad {
@@ -68,6 +57,10 @@
 		white-space: nowrap;
 		text-overflow: ellipsis;
 		overflow: hidden;
+	}
+
+	figcaption > a {
+		color: inherit;
 	}
 
 	.author {
