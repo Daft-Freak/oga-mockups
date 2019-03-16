@@ -1,46 +1,52 @@
 <svelte:head>
-	<title>Sapper project template</title>
+	<title>OpenGameArt.org</title>
 </svelte:head>
 
-<h1>Great success!</h1>
 
-<figure>
-	<img alt='Borat' src='great-success.png'>
-	<figcaption>HIGH FIVE!</figcaption>
-</figure>
+<h2>Featured Art</h2>
+<section class="gallery">
+	{#each featured as item}
+		<ArtTile item={item} size="large"/>
+	{/each}
+</section>
 
-<p><strong>Try editing this file (routes/index.html) to test live reloading.</strong></p>
+<h2>Popular This Week <a href="popular" class="more">(View More)</a></h2>
+<section class="gallery">
+	{#each popularThisWeek as item}
+		<ArtTile item={item}/>
+	{/each}
+</section>
+
+<h2>Latest Art<a href="latest" class="more">(View More)</a></h2>
+<section class="gallery">
+	{#each latest as item}
+		<ArtTile item={item}/>
+	{/each}
+</section>
 
 <style>
-	h1, figure, p {
-		text-align: center;
-		margin: 0 auto;
+	.more {
+		float: right;
 	}
 
-	h1 {
-		font-size: 2.8em;
-		text-transform: uppercase;
-		font-weight: 700;
-		margin: 0 0 0.5em 0;
+	.gallery {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: space-evenly;
+		margin-bottom: 3em;
 	}
 
-	figure {
-		margin: 0 0 1em 0;
-	}
-
-	img {
-		width: 100%;
-		max-width: 400px;
-		margin: 0 0 1em 0;
-	}
-
-	p {
-		margin: 1em auto;
-	}
-
-	@media (min-width: 480px) {
-		h1 {
-			font-size: 4em;
-		}
-	}
 </style>
+
+<script>
+	export default {
+		components: {
+			ArtTile: '../components/ArtTile.html'
+		},
+		preload({ params, query }) {
+			return this.fetch(`home.json`).then(r => r.json()).then(data => {
+				return data;
+			});
+		}
+	};
+</script>
