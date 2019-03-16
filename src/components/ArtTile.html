@@ -4,6 +4,12 @@
 			<img alt="Preview" src="{item.images[size]}">
 		</div>
 	</a>
+	{#if item.audio}
+		<div class="audio" class:playing="audioPlaying" on:click="play(item.audio)"></div>
+		<div class="audio-progress">
+			<div ref:audioProgress class="fill"></div>
+		</div>
+	{/if}
 	<figcaption>
 		<a href="content/{item.alias}">{item.name}</a>
 		<div class="author">by <a href="users/{item.author.username}">{item.author.name}</a></div>
@@ -30,6 +36,7 @@
 		box-shadow: 1px 1px 2px 1px rgba(0, 0, 0, 0.1);
 		max-width: 100%;
 		box-sizing: border-box;
+		position: relative;
 	}
 
 	figure:hover {
@@ -67,14 +74,85 @@
 		font-size: 0.8em;
 		text-align: right;
 	}
+
+	/*audio*/
+	.audio {
+		position: absolute;
+		top: 35%;
+		left: 5%;
+		right: 0;
+		margin: auto;
+
+		width: 0;
+		height: 0;
+
+		border-left: 3.5em solid rgba(255, 255, 255, 0.5);
+		border-top: 3em solid transparent;
+		border-bottom: 3em solid transparent;
+	}
+
+	.audio.playing {
+		border-top: none;
+		border-bottom: none;
+		border-left-width: 1em;
+		border-right: 1em solid rgba(255, 255, 255, 0.5);
+		width: 2em;
+		height: 6em;
+		left: 0;
+	}
+
+	.audio:hover {
+		border-left-color: rgba(255, 255, 255, 0.7);
+		border-right-color: rgba(255, 255, 255, 0.7);
+	}
+
+	.audio-progress {
+		position: absolute;
+		left: 8px;
+		right: 8px;
+		top: 75%;
+
+		background: rgba(255, 255, 255, 0.1)
+	}
+
+	.audio-progress .fill {
+		background: #eee;
+		width: 0;
+		height: 4px;
+	}
 </style>
 
 <script>
+	import {AudioPlayer} from '../audio.js';
+
 	export default {
 		data() {
 			return {
-				size: "medium"
+				size: "medium",
+				audioPlayer: new AudioPlayer(),
+				audio: null,
+				audioPlaying: false,
+				audioProgress: 0
 			};
-		}
+		},
+		methods: {
+			play(info) {
+				const data = this.get();
+				if(data.audioPlaying)
+					data.audioPlayer.pause(data.audio);
+				else {
+					const audio = data.audioPlayer.play(info);
+
+					if(!data.audio) {
+						audio.el.addEventListener("play", () => this.set({audioPlaying: true}));
+						audio.el.addEventListener("pause", () => console.log("paused") || this.set({audioPlaying: false}));
+						audio.el.addEventListener("ended", () => this.set({audioPlaying: false}));
+						//audio.el.addEventListener("timeupdate", e => this.set({audioProgress: e.target.currentTime / e.target.duration}));
+						audio.el.addEventListener("timeupdate", e => this.refs.audioProgress.style.width = `${e.target.currentTime / e.target.duration * 100}%`);
+						this.set({audio});
+					}
+				}
+			}
+		},
 	}
 </script>

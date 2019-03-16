@@ -6,21 +6,21 @@
 <h2>Featured Art</h2>
 <section class="gallery">
 	{#each featured as item}
-		<ArtTile item={item} size="large"/>
+		<ArtTile {item} {audioPlayer} size="large"/>
 	{/each}
 </section>
 
 <h2>Popular This Week <a href="popular" class="more">(View More)</a></h2>
 <section class="gallery">
 	{#each popularThisWeek as item}
-		<ArtTile item={item}/>
+		<ArtTile {item} {audioPlayer}/>
 	{/each}
 </section>
 
 <h2>Latest Art<a href="latest" class="more">(View More)</a></h2>
 <section class="gallery">
 	{#each latest as item}
-		<ArtTile item={item}/>
+		<ArtTile {item} {audioPlayer}/>
 	{/each}
 </section>
 
@@ -39,9 +39,16 @@
 </style>
 
 <script>
+	import {AudioPlayer} from '../audio.js';
+
 	export default {
 		components: {
 			ArtTile: '../components/ArtTile.html'
+		},
+		data() {
+			return {
+				audioPlayer: new AudioPlayer()
+			};
 		},
 		preload({ params, query }) {
 			return this.fetch(`home.json`).then(r => r.json()).then(data => {
