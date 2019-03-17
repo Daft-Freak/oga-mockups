@@ -1,0 +1,229 @@
+<svelte:head>
+	<title>{content.name} | OpenGameArt.org</title>
+</svelte:head>
+
+<h1>{content.name}</h1>
+
+<div class="container">
+	<aside>
+		<div class="user-info">
+			<span class="label">Author</span>
+			<img src={content.author.picture} alt="{content.author.name}'s picture">
+			<h2><a href="users/{content.author.username}">{content.author.name}</a></h2>
+		</div>
+
+		<span class="label">Posted:</span>
+		{content.postDate}
+
+		<span class="label">Tags:</span>
+		<ul class="tags">
+			{#each content.tags as tag}
+				<li>{tag}</li>
+			{/each}
+		</ul>
+		<span class="label">Licenses:</span>
+		<ul class="licences">
+			{#each content.licences as licence}
+				<li>
+					<a href={licence.url}>
+						<img src={licence.img} alt={licence.name}>
+						<span>{licence.name}</span>
+					</a>
+				</li>
+			{/each}
+		</ul>
+
+		<span class="label">Collections:</span>
+		<ul class="collections">
+			{#each content.collections as collection}
+				<li>
+					<a href="content/{collection.alias}">
+						{collection.name}
+					</a>
+				</li>
+			{/each}
+		</ul>
+	</aside>
+	<section>
+		<span class="label">Preview:</span>
+		<section class="gallery">
+			{#each content.previews as preview}
+				<PreviewTile item={preview} {audioPlayer}/>
+			{/each}
+		</section>
+
+		{@html content.description}
+
+		{#if content.attribution}
+			<span class="label">Copyright/Attribution Notice:</span>
+			{content.attribution}
+		{/if}
+
+		<span class="label">File(s):</span>
+		<section class="files">
+			{#each content.files as file}
+				<a href={file.url} download>
+					{file.name} ({file.size})
+					<span class="count">downloaded {file.dlCount} times</span>
+				</a>
+			{/each}
+		</section>
+	</section>
+</div>
+
+<style>
+	.container {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: center;
+	}
+
+	.container aside {
+		padding: 4px;
+		width: 300px;
+		background-color: rgba(0,0, 0, 0.1);
+	}
+
+	.user-info {
+		text-align: center;
+	}
+
+	.label {
+		font-weight: bold;
+		display: block;
+		margin-top: 0.5em;
+	}
+
+	.tags, .licences, .collections {
+		margin: 0;
+		padding: 0;
+		list-style-type: none;
+	}
+
+	.tags, .licences {
+		display: flex;
+		flex-wrap: wrap;
+	}
+
+	.tags li {
+		padding: 0 0.3em;
+		margin: 0.25em;
+		border-radius: 2px;
+		background-color: #89A2C3;
+		color: white;
+
+		flex-grow: 1;
+		white-space: nowrap;
+		text-align: center;
+	}
+
+	.licences li {
+		margin: 0.35em;
+		font-size: 0.7em;
+		text-align: center;
+	}
+
+	.licences img {
+		display: block;
+	}
+
+	.collections li {
+		padding: 0.1em 0.2em;
+	}
+
+	.collections li:nth-child(2n) {
+		background-color: rgba(0,0, 0, 0.1);
+	}
+
+	.container > section {
+		width: 60%;
+		flex-grow: 1;
+
+		padding: 8px;
+	}
+
+	.gallery {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: space-evenly;
+		margin-bottom: 3em;
+	}
+
+	.files {
+		display: flex;
+		flex-wrap: wrap;
+	}
+
+	.files a {
+		display: inline-block;
+		position: relative;
+		padding: 0.5em;
+		padding-left: 3em;
+		margin: 0.2em;
+		flex-grow: 1;
+
+		background: #3b5170;
+		color: white;
+		box-shadow: 1px 1px 2px 1px rgba(0, 0, 0, 0.2);
+	}
+
+	.files a::before {
+		content:"";
+
+		border-top: 1em solid currentColor;
+		border-left: 1em solid transparent;
+		border-right: 1em solid transparent;
+
+		position: absolute;
+		left: 0.5em;
+		bottom: 0.5em;
+	}
+
+	.files a::after {
+		content:"";
+		width: 0.75em;
+		height: 1.5em;
+		background: currentColor;
+
+		position: absolute;
+		left: 1.125em;
+		top: 0.75em;
+	}
+
+	.files a:hover {
+		box-shadow: 1px 1px 4px 2px rgba(0, 0, 0, 0.3);
+	}
+
+	.files a .count {
+		display: block;
+		font-size: 0.6em;
+	}
+
+</style>
+
+<script>
+	import {AudioPlayer} from '../../audio.js';
+
+	export default {
+		components: {
+			PreviewTile: '../../components/PreviewTile.html'
+		},
+		data() {
+			return {
+				audioPlayer: new AudioPlayer()
+			};
+		},
+		async preload({ params, query }) {
+			const res = await this.fetch(`content/${params.alias}.json`);
+			const data = await res.json();
+
+			if (res.status === 200) {
+				return { content: data };
+			} else {
+				this.error(res.status, data.message);
+			}
+
+			return {}
+		}
+	};
+</script>
