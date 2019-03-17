@@ -119,6 +119,138 @@ export function get(req, res) {
 				}
 			}
 		],
+		"popularThisMonth": [
+			{
+				"name": "2D Explosion Animations #3 | Frame by frame",
+				"alias": "2d-explosion-animations-3-frame-by-frame",
+				"author": {
+					"name": "Sinestesia",
+					"username": "sinestesia"
+				},
+				"images": {
+					"medium": "https://opengameart.org/sites/default/files/styles/medium/public/ICON%20done.png",
+					"thumbnail": "https://opengameart.org/sites/default/files/styles/thumbnail/public/ICON%20done.png",
+					"large": "https://opengameart.org/sites/default/files/styles/large/public/ICON%20done.png"
+				}
+			},
+			{
+				"name": "Overworld Objects",
+				"alias": "overworld-objects",
+				"author": {
+					"name": "Kelvin Shadewing",
+					"username": "kelvin-shadewing"
+				},
+				"images": {
+					"medium": "https://opengameart.org/sites/default/files/styles/medium/public/statics_1.png",
+					"thumbnail": "https://opengameart.org/sites/default/files/styles/thumbnail/public/statics_1.png",
+					"large": "https://opengameart.org/sites/default/files/styles/large/public/statics_1.png"
+				}
+			},
+			{
+				"name": "RPG Title Screen Music Pack",
+				"alias": "rpg-title-screen-music-pack",
+				"author": {
+					"name": "The Muwee Collective",
+					"username": "the-muwee-collective"
+				},
+				"images": {
+					"medium": "https://opengameart.org/sites/default/files/styles/medium/public/audio_preview/Irrational%20Machines%20-%20RPG%20Title%20Screen%20Music%20Pack%20-%2001%20Title%20Screen.wav.png",
+					"thumbnail": "https://opengameart.org/sites/default/files/styles/thumbnail/public/audio_preview/Irrational%20Machines%20-%20RPG%20Title%20Screen%20Music%20Pack%20-%2001%20Title%20Screen.wav.png",
+					"large": "https://opengameart.org/sites/default/files/styles/large/public/audio_preview/Irrational%20Machines%20-%20RPG%20Title%20Screen%20Music%20Pack%20-%2001%20Title%20Screen.wav.png"
+				}
+			},
+			{
+				"name": "Classic RPG Tileset",
+				"alias": "classic-rpg-tileset",
+				"author": {
+					"name": "jestan",
+					"username": "jestan"
+				},
+				"images": {
+					"medium": "https://opengameart.org/sites/default/files/styles/medium/public/Tileset_ClassicRPGProjectprevitch.png",
+					"thumbnail": "https://opengameart.org/sites/default/files/styles/thumbnail/public/Tileset_ClassicRPGProjectprevitch.png",
+					"large": "https://opengameart.org/sites/default/files/styles/large/public/Tileset_ClassicRPGProjectprevitch.png"
+				}
+			},
+			{
+				"name": "[LPC] Backpacks",
+				"alias": "lpc-backpacks",
+				"author": {
+					"name": "BenCreating",
+					"username": "bencreating"
+				},
+				"images": {
+					"medium": "https://opengameart.org/sites/default/files/styles/medium/public/Preview_Backpack_Main.png",
+					"thumbnail": "https://opengameart.org/sites/default/files/styles/thumbnail/public/Preview_Backpack_Main.png",
+					"large": "https://opengameart.org/sites/default/files/styles/large/public/Preview_Backpack_Main.png"
+				}
+			},
+			{
+				"name": "Fallen Angel Chibi Sprites",
+				"alias": "fallen-angel-chibi-sprites",
+				"author": {
+					"name": "CraftPix.net 2D Game Assets",
+					"username": "craftpixnet-2d-game-assets"
+				},
+				"images": {
+					"medium": "https://opengameart.org/sites/default/files/styles/medium/public/Free-Fallen-Angel-Chibi-2D-Game-Sprites.jpg",
+					"thumbnail": "https://opengameart.org/sites/default/files/styles/thumbnail/public/Free-Fallen-Angel-Chibi-2D-Game-Sprites.jpg",
+					"large": "https://opengameart.org/sites/default/files/styles/large/public/Free-Fallen-Angel-Chibi-2D-Game-Sprites.jpg"
+				}
+			},
+			{
+				"name": "[LPC] Wooden Furniture",
+				"alias": "lpc-wooden-furniture",
+				"author": {
+					"name": "bluecarrot16",
+					"username": "bluecarrot16"
+				},
+				"images": {
+					"medium": "https://opengameart.org/sites/default/files/styles/medium/public/dark-wood_1.png",
+					"thumbnail": "https://opengameart.org/sites/default/files/styles/thumbnail/public/dark-wood_1.png",
+					"large": "https://opengameart.org/sites/default/files/styles/large/public/dark-wood_1.png"
+				}
+			},
+			{
+				"name": "Fantasy Icon Pack by Ravenmore",
+				"alias": "fantasy-icon-pack-by-ravenmore-0",
+				"author": {
+					"name": "Ravenmore",
+					"username": "ravenmore"
+				},
+				"images": {
+					"medium": "https://opengameart.org/sites/default/files/styles/medium/public/preview2_13.png",
+					"thumbnail": "https://opengameart.org/sites/default/files/styles/thumbnail/public/preview2_13.png",
+					"large": "https://opengameart.org/sites/default/files/styles/large/public/preview2_13.png"
+				}
+			},
+			{
+				"name": "4 Colour Overworld Tileset",
+				"alias": "4-colour-overworld-tileset",
+				"author": {
+					"name": "stealthix",
+					"username": "stealthix"
+				},
+				"images": {
+					"medium": "https://opengameart.org/sites/default/files/styles/medium/public/Cover_14.png",
+					"thumbnail": "https://opengameart.org/sites/default/files/styles/thumbnail/public/Cover_14.png",
+					"large": "https://opengameart.org/sites/default/files/styles/large/public/Cover_14.png"
+				}
+			},
+			{
+				"name": "Zelda-like tilesets and sprites",
+				"alias": "zelda-like-tilesets-and-sprites",
+				"author": {
+					"name": "ArMM1998",
+					"username": "armm1998"
+				},
+				"images": {
+					"medium": "https://opengameart.org/sites/default/files/styles/medium/public/951a7f47f87b1dbe262b27fba196f3bf.png",
+					"thumbnail": "https://opengameart.org/sites/default/files/styles/thumbnail/public/951a7f47f87b1dbe262b27fba196f3bf.png",
+					"large": "https://opengameart.org/sites/default/files/styles/large/public/951a7f47f87b1dbe262b27fba196f3bf.png"
+				}
+			}
+		],
 		"latest": [
 			{
 				"name": "Mini-roguelike Pixel Monsters, Icons, Dungeon stuff",
