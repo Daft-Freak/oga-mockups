@@ -31,6 +31,21 @@ code {
 	border-radius: 2px;
 }
 
+.dark-mode {
+	color: #f7f7f7;
+	background: #181818;
+}
+
+.dark-mode a {
+	color: #749fdc;
+}
+
+/*possibly not the right place for these overrides*/
+.dark-mode .gallery figure,
+.dark-mode .news article {
+	background: #333 !important; /*!!*/
+}
+
 @media (min-width: 400px) {
 	body {
 		font-size: 16px;
