@@ -1,0 +1,181 @@
+<svelte:head>
+	<title>{user.name}</title>
+</svelte:head>
+
+<section class="profile">
+	<div class="user-info">
+		<img src={user.picture} alt="{user.name}'s picture">
+		<h1>{user.name}</h1>
+	</div>
+	<div class="project">
+		<h2>Project</h2>
+		{#if user.project.url}
+			<a href={user.project.url}>{user.project.url}</a><br/>
+		{/if}
+		{user.project.description}
+	</div>
+	<div class="medals">
+		<h2>Medals</h2>
+		<ul>
+			{#each user.medals as medal}
+				<li><img src={medal.image} title={medal.title} alt={medal.title.split(':')[0]}></li>
+			{/each}
+		</ul>
+	</div>
+</section>
+
+<nav class="tabs">
+	<ul>
+		<li><a class="selected" href='users/{user.username}'>Art</a></li>
+		<li><a href='.'>Collections</a></li>
+		<li><a href='.'>Comments</a></li>
+		<li><a href='.'>Followers</a></li>
+		<li><a href='.'>Friends</a></li>
+		<li><a href='.'>Favourites</a></li>
+	</ul>
+</nav>
+
+<!--tabbed section-->
+<h2>Art by {user.name}</h2>
+<section class="gallery">
+	{#each user.art as item}
+		<ArtTile {item} {audioPlayer} showAuthor="false"/>
+	{/each}
+</section>
+<div class="pagination">
+	<a href="#prev">&lt; Previous</a>
+	<a href="users/{user.username}/1">1</a>
+	<a href="users/{user.username}/2">2</a>
+	<a href="users/{user.username}/3">3</a>
+	<a href="users/{user.username}/4">4</a>
+	<a href="users/{user.username}/5">5</a>
+	<a href="#next">Next &gt;</a>
+</div>
+
+<style>
+	.profile {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: center;
+	}
+
+	.user-info, .medals {
+		width: 20%;
+		flex-grow: 1;
+	}
+
+	.user-info {
+		text-align: center;
+		min-width: 200px;
+	}
+
+	.medals {
+		min-width: 300px;
+	}
+
+	.project {
+		flex-grow: 3;
+		min-width: 35%;
+
+		margin-bottom: 0.5em;
+	}
+
+	.medals ul {
+		margin: 0;
+		padding: 0;
+		list-style-type: none;
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: center;
+	}
+
+	.medals li {
+		margin: 0 0.15em;
+	}
+
+	.tabs {
+		background: #3b5170;
+		font-weight: bold;
+		color: white;
+
+		margin: 0.5em 0; 
+	}
+
+	.tabs ul {
+		margin: 0;
+		padding: 0;
+		list-style-type: none;
+
+		display: flex;
+		flex-wrap: wrap;
+	}
+
+	.tabs .selected, .tabs a:hover {
+		background: rgba(4, 4, 4, 0.4);
+	}
+
+	.tabs a {
+		color: inherit;
+		white-space: nowrap;
+		text-decoration: none;
+		padding: 0.4em 1em;
+		display: block;
+		transition-duration: 0.5s;
+	}
+
+	.gallery {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: space-evenly;
+		margin-bottom: 1em;
+	}
+
+	.pagination {
+		display: flex;
+	}
+
+	.pagination a {
+		padding: 0.5em;
+		color: white;
+		background: #3b5170;
+	}
+
+	.pagination a:hover {
+		background: #243244;
+	}
+
+	.pagination a:first-child {
+		margin-right: auto;
+	}
+
+	.pagination a:last-child {
+		margin-left: auto;
+	}
+</style>
+
+<script>
+	import {AudioPlayer} from '../../audio.js';
+
+	export default {
+		components: {
+			ArtTile: '../../components/ArtTile.html'
+		},
+		data() {
+			return {
+				audioPlayer: new AudioPlayer()
+			};
+		},
+		async preload({ params, query }) {
+			const res = await this.fetch(`users/${params.username}.json`);
+			const data = await res.json();
+
+			if (res.status === 200) {
+				return { user: data };
+			} else {
+				this.error(res.status, data.message);
+			}
+
+			return {}
+		}
+	};
+</script>
