@@ -12,7 +12,9 @@
 	{/if}
 	<figcaption>
 		<a href="content/{item.alias}">{item.name}</a>
-		<div class="author">by <a href="users/{item.author.username}">{item.author.name}</a></div>
+		{#if item.author && showAuthor}
+			<div class="author">by <a href="users/{item.author.username}">{item.author.name}</a></div>
+		{/if}
 	</figcaption>
 </figure>
 
@@ -78,7 +80,7 @@
 	/*audio*/
 	.audio {
 		position: absolute;
-		top: 35%;
+		top: calc(50% - 4em);
 		left: 5%;
 		right: 0;
 		margin: auto;
@@ -110,7 +112,7 @@
 		position: absolute;
 		left: 8px;
 		right: 8px;
-		top: 75%;
+		top: calc(85% - 2em);
 
 		background: rgba(255, 255, 255, 0.1)
 	}
@@ -129,6 +131,7 @@
 		data() {
 			return {
 				size: "medium",
+				showAuthor: true,
 				audioPlayer: new AudioPlayer(),
 				audio: null,
 				audioPlaying: false,
