@@ -219,6 +219,395 @@ export default
                 "alias": "%D1%81%D1%810-favourites",
                 "name": "\u0421\u04210 Favourites"
             }
+        ],
+        "comments": [
+            {
+                "author": {
+                    "username": "sdivihall",
+                    "name": "SdiviHall",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-29926-1549382033.png?itok=FjLBapF4"
+                },
+                "postDate": "2017-02-16 16:58",
+                "text": "<p>Today is a good day for fans of gameboy advance/color style graphics! Thanks for your contribution!</p>\n"
+            },
+            {
+                "author": {
+                    "username": "sdivihall",
+                    "name": "SdiviHall",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-29926-1549382033.png?itok=FjLBapF4"
+                },
+                "postDate": "2017-02-16 17:00",
+                "text": "<p>The preview image does not do this pack justice. Excellent work.</p>\n"
+            },
+            {
+                "author": {
+                    "username": "weaponstheyfear",
+                    "name": "weaponstheyfear",
+                    "picture": null
+                },
+                "postDate": "2017-02-16 17:51",
+                "text": "<p>Holy hell is this awesome!</p>\n"
+            },
+            {
+                "author": {
+                    "username": "armm1998",
+                    "name": "ArMM1998",
+                    "picture": null
+                },
+                "postDate": "2017-02-16 19:29",
+                "text": "<p>No problem. I wasn't going to use these anyway, so instead of just forgeting about them and even possibly losing them forever, i'd rather share them with people.</p>\n"
+            },
+            {
+                "author": {
+                    "username": "kurt",
+                    "name": "kurt",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-986-1486784816.jpg?itok=gJY1wag6"
+                },
+                "postDate": "2017-02-16 20:07",
+                "text": "<p>I love the art of A Link To The Past.&#160; Great Job!</p>\n"
+            },
+            {
+                "author": {
+                    "username": "sharm",
+                    "name": "Sharm",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-1727-1393539896.png?itok=PwnHYzuR"
+                },
+                "postDate": "2017-02-16 21:26",
+                "text": "<p>CC0? No way. &#160;This is a lot of high quality stuff, you deserve credit at the very least.</p>\n"
+            },
+            {
+                "author": {
+                    "username": "pboop",
+                    "name": "pboop",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-42653-1484188350.jpg?itok=A3v-Cbir"
+                },
+                "postDate": "2017-02-16 22:22",
+                "text": "<p>This is so good! I like the trees so much!</p>\n"
+            },
+            {
+                "author": {
+                    "username": "mpplantofficial",
+                    "name": "mpplantofficial",
+                    "picture": null
+                },
+                "postDate": "2017-02-17 05:10",
+                "text": "<p>Good!</p>\n"
+            },
+            {
+                "author": {
+                    "username": "magnesus",
+                    "name": "Magnesus",
+                    "picture": null
+                },
+                "postDate": "2017-02-17 07:56",
+                "text": "<p>Amazing, thanks for sharing and the CC0 license. I might remake them in vector for my game. Was looking for something zelda-like as an inspiration.</p>\n"
+            },
+            {
+                "author": {
+                    "username": "6666",
+                    "name": "6666",
+                    "picture": null
+                },
+                "postDate": "2017-02-17 12:01",
+                "text": "<p>WOW.. simply.. wow..</p>\n<p>&#160;</p>\n<p>why am I so bad at level design I want to make something with this ;-;</p>\n<p>&#160;</p>\n<p>Good Job!</p>\n"
+            },
+            {
+                "author": {
+                    "username": "weaponstheyfear",
+                    "name": "weaponstheyfear",
+                    "picture": null
+                },
+                "postDate": "2017-02-17 13:51",
+                "text": "<p>Likewise, I've got a great start to an engine with it already, but I know I am terrible at level design :/</p>\n"
+            },
+            {
+                "author": {
+                    "username": "pudthepotato",
+                    "name": "PudThePotato",
+                    "picture": null
+                },
+                "postDate": "2017-02-17 19:11",
+                "text": "<p>Signed up just to say this is awesome!</p>\n"
+            },
+            {
+                "author": {
+                    "username": "shade",
+                    "name": "-Shade-",
+                    "picture": null
+                },
+                "postDate": "2017-02-18 03:04",
+                "text": "<p>\"CC0? No way. &#160;This is a lot of high quality stuff, you deserve credit at the very least.\"</p>\n<p>&#160;</p>\n<p>Hopefully most users will give the author credit as a courtesy at least. I know in my unreleased project I keep a credits file that doesn't distinguish between OGA-BY and CC0. If I ever release a beta I'll credit OGA and point to the credits file at a minimum. (Though, as a note to developers, keeps your credits file up to date as you go.)</p>\n"
+            },
+            {
+                "author": {
+                    "username": "snabisch",
+                    "name": "Snabisch",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-17061-1410165851.png?itok=o_AmTWaE"
+                },
+                "postDate": "2017-02-18 03:49",
+                "text": "<p>What good memories that image brings me. Very good work.</p>\n<p>&#160;</p>\n"
+            },
+            {
+                "author": {
+                    "username": "hr78",
+                    "name": "HR78",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-23141-1546544427.png?itok=es4BikVJ"
+                },
+                "postDate": "2017-02-18 08:35",
+                "text": "<p>Excellent!</p>\n"
+            },
+            {
+                "author": {
+                    "username": "zabin",
+                    "name": "Zabin",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-3356-1355363098.png?itok=zFQhBKFI"
+                },
+                "postDate": "2017-02-18 13:00",
+                "text": "<p>Wow this is awesome!&#160; I wanted to see what the water animations looked like so I built this gif preview.</p>\n"
+            },
+            {
+                "author": {
+                    "username": "withthelove",
+                    "name": "withthelove",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-11822-1527947805.png?itok=F--OZFR_"
+                },
+                "postDate": "2017-02-19 22:08",
+                "text": "<p>&#160;</p>\n<p>@Zabin: &#160;Thanks for sharing that! &#160;</p>\n<p>As knife_drawer_games said, the preview doesn't even begin to do this set justice! &#160; There's a font in there, some great UI stuff, a paper backdrop, a LIVING LOG CHARACTER! &#160;It goes on and on!</p>\n<p>&#160;</p>\n<p>@ArMM1988:&#160;</p>\n<p>Stupendous! &#160; Utterly speechless, this is an amazing collection, thanks so much for sharing! &#160;</p>\n<p>One small thought, and I am indeed very hesistant to ask for anything more, but any possibility of posting the palette you used for all this? &#160; If you happen to have it handy, it'd be great for folks wanting to extend or alter the set.</p>\n"
+            },
+            {
+                "author": {
+                    "username": "weaponstheyfear",
+                    "name": "weaponstheyfear",
+                    "picture": null
+                },
+                "postDate": "2017-02-20 16:37",
+                "text": "<p>I REALLLLLY hope to see this built upon, this set is amazing! &#160;A handful of enemies and weapons/items would be awesome.</p>\n"
+            },
+            {
+                "author": {
+                    "username": "stormtrooperjon",
+                    "name": "StormtrooperJon",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-18825-1427375646.png?itok=uh8f8J5T"
+                },
+                "postDate": "2017-02-22 15:34",
+                "text": "<p>Excellent work, really amazing, keep going and good luck with sprite art! :D</p>\n"
+            },
+            {
+                "author": {
+                    "username": "shoare6123",
+                    "name": "shoare6123",
+                    "picture": null
+                },
+                "postDate": "2017-02-22 22:21",
+                "text": "<p>I would love to see additional sprites mainly for some enemies, because this is a beautiful looking set.</p>\n"
+            },
+            {
+                "author": {
+                    "username": "brahaminkiller",
+                    "name": "BrahaminKiller",
+                    "picture": null
+                },
+                "postDate": "2017-03-02 03:12",
+                "text": "<p>Even if it's CC0, we should give credit where credit is due! This pack is awesome. I actually JUST made this account so I can say this is an amazing package.</p>\n"
+            },
+            {
+                "author": {
+                    "username": "gemis",
+                    "name": "gemis",
+                    "picture": null
+                },
+                "postDate": "2017-03-03 22:06",
+                "text": "<p>hey i have a question, how are u guys making the houses and other buildings borders transprent?</p>\n<p>&#160;</p>\n"
+            },
+            {
+                "author": {
+                    "username": "weaponstheyfear",
+                    "name": "weaponstheyfear",
+                    "picture": null
+                },
+                "postDate": "2017-03-05 18:50",
+                "text": "<p>Curious now what it would cost to commision some enemies for this set. If anyone is interested, give me a message.</p>\n"
+            },
+            {
+                "author": {
+                    "username": "grimfist",
+                    "name": "Grimfist",
+                    "picture": null
+                },
+                "postDate": "2017-03-16 07:58",
+                "text": "<p>This is a very awesome set, thank you for sharing it with the world. I will add it to my backlog and hopefully find some good use for it.</p>\n"
+            },
+            {
+                "author": {
+                    "username": "zephyr9air",
+                    "name": "Zephyr9air",
+                    "picture": null
+                },
+                "postDate": "2017-04-16 03:10",
+                "text": "<p>Good work</p>\n<p>thank you : )</p>\n"
+            },
+            {
+                "author": {
+                    "username": "casey-j-parker",
+                    "name": "Casey J Parker",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-45614-1492724545.jpg?itok=nktEosSN"
+                },
+                "postDate": "2017-04-20 18:08",
+                "text": "<p>I love these. I'd more consider them akin to the tileset used in Earthbound though, rather than Zelda.</p>\n"
+            },
+            {
+                "author": {
+                    "username": "shackhal",
+                    "name": "Shackhal",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-46368-1495147191.png?itok=9fCuKlN4"
+                },
+                "postDate": "2017-05-20 20:03",
+                "text": "<p>This tileset looks wonderful, man.</p>\n<p>Nice job!</p>\n"
+            },
+            {
+                "author": {
+                    "username": "thewzzard",
+                    "name": "TheWzzard",
+                    "picture": null
+                },
+                "postDate": "2017-07-31 19:48",
+                "text": "<p>Amazing assets! Thanks so much.</p>\n"
+            },
+            {
+                "author": {
+                    "username": "the-pixelboy",
+                    "name": "The Pixelboy",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-42427-1483617913.png?itok=YapaVYyV"
+                },
+                "postDate": "2017-09-21 04:48",
+                "text": "<p>This is CRAZY, dude! One of the best pieces I've ever seen!&#160;</p>\n"
+            },
+            {
+                "author": {
+                    "username": "havecourage",
+                    "name": "HaveCourage",
+                    "picture": null
+                },
+                "postDate": "2017-10-25 01:39",
+                "text": "<p>This is incredible, I couldn't believe my eyes when i saw this under public domain. I'm definitely using this in my game. If you're ever bored and end up making some character sheets make sure i'm the first one you hit up.</p>\n"
+            },
+            {
+                "author": {
+                    "username": "nachothetrtl",
+                    "name": "NachoTheTRTL",
+                    "picture": null
+                },
+                "postDate": "2017-11-09 20:55",
+                "text": "<p>These are awesome! Almost exactly the style I want for my game. You're a hero.</p>\n"
+            },
+            {
+                "author": {
+                    "username": "diarandor",
+                    "name": "Diarandor",
+                    "picture": null
+                },
+                "postDate": "2017-11-26 16:00",
+                "text": "<p>This guy seems very talented as a pixel artist but, am I the only one who thinks that the trees are too close to the ones of \"Zelda Minish Cap\"? This is especially noticeable with the trunk trees: although the shading is different, the borders and shapes seem exactly the same to me, which could mean that this is a derivative work of non-free art, and that would be illegal. You can search images with google and compare to see what I mean.</p>\n<p>&#160;</p>\n<p>I would recommend to avoid using art that is too close to Nintendo's art (at least in commercial games), because it can be considered as a derivative work of their art, which is not legal and you may get a DMCA. I am mainly referring to the trees appearing in this tileset. I also find a bit suspicious that someone appears, releases a ton of \"free\" art of very high quality, where part of the art looks suspiciously too close to Nintendo's art, and then disappears. (And he does not even ask for credit! What kind of true artist does that? Does this mean that all his art could be illegal and he does not want credit just to avoid responsibilities if legal action is taken against him? Or is this just me being paranoid? I don't really know..., but better to avoid any risk.) No offense intended.</p>\n"
+            },
+            {
+                "author": {
+                    "username": "armm1998",
+                    "name": "ArMM1998",
+                    "picture": null
+                },
+                "postDate": "2017-11-28 20:09",
+                "text": "<p>@Diarandor I understand the concern about trees being too similar visually to Minish Cap's. I don't particularly agree and i don't think Nintendo would bother with DMCA over trees. but i guess i see why you're saying that.</p>\n<p>The reason i posted this and then \"dissapeared\" was because this was a smi-complete set i made for a personal project that never came to be. Figured that instead of just sitting on my computer forever i would just give it away. So i made this account witht the only purpose of posting this set over here. After a while i never came to see what people had commented anymore.</p>\n<p>I chose CC0 because i don't quite like this set anymore.</p>\n<p>If anyone would be too concerned about my art, they could just contact me on twitter. If you google my username, the first result should be me.</p>\n<p>&#160;</p>\n<p>Cheers.</p>\n"
+            },
+            {
+                "author": {
+                    "username": "diarandor",
+                    "name": "Diarandor",
+                    "picture": null
+                },
+                "postDate": "2017-11-28 20:27",
+                "text": "<p>@ArMM1998: Ok, I take away my accusations (I cannot prove anything and do not want to give you problems), and I agree with you that it is unlikely that Nintendo would say anything about this (they are very tolerant), at least for non-commercial games. But I still do not recommend, for other people, to use these trees in commercial games because they are too similar to the ones of Minish Cap. By the way, the quality of this art is really nice, so I do not understand why you do not like it. ^^</p>\n"
+            },
+            {
+                "author": {
+                    "username": "armm1998",
+                    "name": "ArMM1998",
+                    "picture": null
+                },
+                "postDate": "2017-11-28 20:38",
+                "text": "<p>@Diarandor No worries! I don't like it anymore because in comparison to what i'm capable of right now, this looks like amateur stuff lol&#160;</p>\n<p>And i'm not very happy with how the grass turned out</p>\n"
+            },
+            {
+                "author": {
+                    "username": "drummyfish",
+                    "name": "drummyfish",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-55990-1527187035.png?itok=HBRLQ0NB"
+                },
+                "postDate": "2018-06-03 14:55",
+                "text": "<p>So far my favorite tileset - not overly small, look awesome, big variety of tiles, includes also other game elements and is under CC0 - I can't see how this could get any better.</p>\n"
+            },
+            {
+                "author": {
+                    "username": "cjonasw",
+                    "name": "cjonasw",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-57160-1529505423.png?itok=8regdRSF"
+                },
+                "postDate": "2018-06-22 04:43",
+                "text": "<p>Perfect thank you.</p>\n"
+            },
+            {
+                "author": {
+                    "username": "krannel",
+                    "name": "Krannel",
+                    "picture": null
+                },
+                "postDate": "2018-06-25 00:26",
+                "text": "<p>Hola apenas estoy comenzando en todo el mundo de la programacion y el dise&#241;o de videojuesgos por lo que encontre este tile pero la verdad es que es increible y me gustaria usarlo como base para crear un peque&#241;o juego. Este tile me llena de nostalgia con los juegos de mi infancia, gracias&#160;</p>\n"
+            },
+            {
+                "author": {
+                    "username": "medicinestorm",
+                    "name": "MedicineStorm",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-3656-1346970297.png?itok=a0pnbKu5"
+                },
+                "postDate": "2018-06-25 12:00",
+                "text": "<p>^^</p>\n<blockquote><p><em>&lt;Hello, I'm just getting into the huge world of programming and videogame design so I found this tileset but the truth is that it is incredible and I would like to use it as a base to create a small game. This tileset fills me with nostalgia like the games of my childhood, thanks&gt;</em></p>\n</blockquote>\n<p>Hi, Krannel. ArMM1998 has licensed this art as CC0. That means you can use this artwork in your game. Use it however you want. :)</p>\n<blockquote><p>&lt;Hola, Krannel. ArMM1998 ha licenciado este arte como CC0. Eso significa que puedes usar esta obra de arte en tu juego. &#218;selo como lo desee. :) &gt;</p>\n</blockquote>\n"
+            },
+            {
+                "author": {
+                    "username": "mrdannyells",
+                    "name": "mrdannyells",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-58056-1532525453.png?itok=hWXgklTf"
+                },
+                "postDate": "2018-07-25 09:11",
+                "text": "<p>this is awesome! wow!</p>\n"
+            },
+            {
+                "author": {
+                    "username": "terradarocoja",
+                    "name": "TerradaroCoja",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-60571-1540833476.png?itok=vXuzgMNU"
+                },
+                "postDate": "2018-10-29 15:18",
+                "text": "<p>I am quite confused about something, how do you use the roof tiles?</p>\n<p>I want to make this look good.</p>\n<p>&#160;</p>\n"
+            },
+            {
+                "author": {
+                    "username": "greysondn",
+                    "name": "greysondn",
+                    "picture": null
+                },
+                "postDate": "2018-11-26 05:37",
+                "text": "<p>Base sprite is 19 px tall. It was making me twitch so I've made a version 16x16. CC-0 ; if you want to credit, you can credit \"ArMM1998 with modifications by greysondn\" . Most people won't need the palette it's done in - it's been set to my work's palette.</p>\n<p>Not sure if this is how attachments work but hopefully this posts.</p>\n"
+            },
+            {
+                "author": {
+                    "username": "bacul33",
+                    "name": "Bacul33",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-55242-1523129976.png?itok=smZUeSN-"
+                },
+                "postDate": "2018-12-09 21:51",
+                "text": "<p>Great tileset. I am following a tutorial on YouTube done by Mister Taft Creates. He uses this tileset to create a Zelda-style game in Unity. I just finished part 3 which covers Player sprite animation. I couldn't help but notice a difference in the hands of the second left direction walk sprites compared to the same right direction walk sprites. Thanks so much for making this free to use. I hope someday to be able to create my own full tileset.</p>\n<p>&#160;</p>\n"
+            }
         ]
     },
     {
@@ -290,6 +679,26 @@ export default
                 "alias": "pixel-art-jrpg",
                 "name": "Pixel Art - JRPG"
             }
+        ],
+        "comments": [
+            {
+                "author": {
+                    "username": "snabisch",
+                    "name": "Snabisch",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-17061-1410165851.png?itok=o_AmTWaE"
+                },
+                "postDate": "2019-02-27 02:55",
+                "text": "<p>They're beautiful. I love them.</p>\n"
+            },
+            {
+                "author": {
+                    "username": "looneybits",
+                    "name": "looneybits",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-20929-1437118708.png?itok=bKYfbTlg"
+                },
+                "postDate": "2019-02-28 02:06",
+                "text": "<p>Cool !! thanks for uploading it ;)</p>\n"
+            }
         ]
     },
     {
@@ -337,7 +746,8 @@ export default
                 "name": "CC-BY-SA 4.0"
             }
         ],
-        "collections": []
+        "collections": [],
+        "comments": []
     },
     {
         "alias": "rpg-title-screen-music-pack",
@@ -516,6 +926,134 @@ export default
                 "alias": "music-normal",
                 "name": "music-normal"
             }
+        ],
+        "comments": [
+            {
+                "author": {
+                    "username": "medicinestorm",
+                    "name": "MedicineStorm",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-3656-1346970297.png?itok=a0pnbKu5"
+                },
+                "postDate": "2019-02-15 10:07",
+                "text": "<p>Just fyi, tags like \"Music\" are redundant when this is in the Music category. See&#160;<a href=\"https://opengameart.org/content/art-tags\">https://opengameart.org/content/art-tags</a> for additional tagging tips.</p>\n<p>P.S. these sound great! :)</p>\n"
+            },
+            {
+                "author": {
+                    "username": "the-muwee-collective",
+                    "name": "The Muwee Collective",
+                    "picture": null
+                },
+                "postDate": "2019-02-15 10:10",
+                "text": "<p>That's really right :) Thanks</p>\n"
+            },
+            {
+                "author": {
+                    "username": "snabisch",
+                    "name": "Snabisch",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-17061-1410165851.png?itok=o_AmTWaE"
+                },
+                "postDate": "2019-02-17 13:06",
+                "text": "<p>What a great sound</p>\n"
+            },
+            {
+                "author": {
+                    "username": "the-muwee-collective",
+                    "name": "The Muwee Collective",
+                    "picture": null
+                },
+                "postDate": "2019-02-18 02:58",
+                "text": "<p>Thanks a lot Snabisch</p>\n"
+            },
+            {
+                "author": {
+                    "username": "frenchyboy",
+                    "name": "Frenchyboy",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-59852-1550275454.png?itok=Ix0u3Mzf"
+                },
+                "postDate": "2019-02-19 08:53",
+                "text": "<p>NOICE. Very Deus Ex like.</p>\n"
+            },
+            {
+                "author": {
+                    "username": "congusbongus",
+                    "name": "congusbongus",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-10126-1464836468.jpg?itok=jfujLsjP"
+                },
+                "postDate": "2019-02-20 18:36",
+                "text": "<p>Have the authors consented to releasing this as CC-BY? I can't find any information in the source, which only says \"all rights reserved\".</p>\n"
+            },
+            {
+                "author": {
+                    "username": "the-muwee-collective",
+                    "name": "The Muwee Collective",
+                    "picture": null
+                },
+                "postDate": "2019-02-21 03:36",
+                "text": "<p>Rights belong to each composer but they gave the authorisation to distribute and use their track -meant to be used in gamedev initially-</p>\n<p>So if you want to use this track in your game, go for it as long as you give proper attributions :)</p>\n"
+            },
+            {
+                "author": {
+                    "username": "the-muwee-collective",
+                    "name": "The Muwee Collective",
+                    "picture": null
+                },
+                "postDate": "2019-02-21 03:36",
+                "text": "<p>Thanks :)</p>\n"
+            },
+            {
+                "author": {
+                    "username": "medicinestorm",
+                    "name": "MedicineStorm",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-3656-1346970297.png?itok=a0pnbKu5"
+                },
+                "postDate": "2019-02-21 10:24",
+                "text": "<p><del>@The Muwee Collective: \"Proper attribution\" requires that we know exactly who to attribute for each track. I assumed you were the composer for all of them. If that is not the case, I don't see the indication of who authored each track. Ultimately, you will need to properly attribute the artists here before anyone else is able to.</del></p>\n<p><del>For now, I have to mark this with a licensing issue.</del> Let me know if there are any questions or concerns. :)</p>\n"
+            },
+            {
+                "author": {
+                    "username": "the-muwee-collective",
+                    "name": "The Muwee Collective",
+                    "picture": null
+                },
+                "postDate": "2019-02-21 11:21",
+                "text": "<p>Actually the names are in the wav files.</p>\n<p>&lt;Name of the composer&gt; - RPG Title Screen Music Pack - &lt;Name of the song&gt;</p>\n<p>I added this information in the description.</p>\n<p>Is this cool enough?</p>\n"
+            },
+            {
+                "author": {
+                    "username": "medicinestorm",
+                    "name": "MedicineStorm",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-3656-1346970297.png?itok=a0pnbKu5"
+                },
+                "postDate": "2019-02-21 11:26",
+                "text": "<p>Oh, nice. I beleive that will work. Thanks for adding that to the attribution insturctions. Could you show me where, on your site, the terms are that the artists agreed to? I just want to be sure the terms are compatible with the license listed above.</p>\n"
+            },
+            {
+                "author": {
+                    "username": "the-muwee-collective",
+                    "name": "The Muwee Collective",
+                    "picture": null
+                },
+                "postDate": "2019-02-21 11:59",
+                "text": "<p>Sure thing man.</p>\n<p>It's not on the website, agreements are per submission.</p>\n<p>Ok let me back up ;)</p>\n<p>I run a weekly musical challenge, every week there's a new theme and composer submit their track.</p>\n<p>&#160;</p>\n<p>For example this week's theme is Wild West and composers have to go through this form to submit (licensing agreements are at the end of the form).</p>\n<p>&#160;</p>\n<p><a href=\"https://goo.gl/forms/8NLu7Ew6MXVOcQnk1\">https://goo.gl/forms/8NLu7Ew6MXVOcQnk1</a></p>\n<p>&#160;</p>\n<p>Let me know if there's anything I can be clearer about!</p>\n"
+            },
+            {
+                "author": {
+                    "username": "medicinestorm",
+                    "name": "MedicineStorm",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-3656-1346970297.png?itok=a0pnbKu5"
+                },
+                "postDate": "2019-02-21 12:21",
+                "text": "<p>Looks good to me. Thanks! :)</p>\n"
+            },
+            {
+                "author": {
+                    "username": "frenchyboy",
+                    "name": "Frenchyboy",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-59852-1550275454.png?itok=Ix0u3Mzf"
+                },
+                "postDate": "2019-02-21 21:52",
+                "text": "<p>Dude that's cool! No Problem!</p>\n"
+            }
         ]
     },
     {
@@ -605,6 +1143,26 @@ export default
                 "alias": "smugglers",
                 "name": "Smugglers"
             }
+        ],
+        "comments": [
+            {
+                "author": {
+                    "username": "looneybits",
+                    "name": "looneybits",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-20929-1437118708.png?itok=bKYfbTlg"
+                },
+                "postDate": "2019-02-28 02:05",
+                "text": "<p>Nice job!! Thanks for sharing ;)</p>\n"
+            },
+            {
+                "author": {
+                    "username": "snabisch",
+                    "name": "Snabisch",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-17061-1410165851.png?itok=o_AmTWaE"
+                },
+                "postDate": "2019-03-04 02:28",
+                "text": "<p>What a huge job</p>\n"
+            }
         ]
     },
     {
@@ -657,7 +1215,18 @@ export default
                 "name": "CC0"
             }
         ],
-        "collections": []
+        "collections": [],
+        "comments": [
+            {
+                "author": {
+                    "username": "snabisch",
+                    "name": "Snabisch",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-17061-1410165851.png?itok=o_AmTWaE"
+                },
+                "postDate": "2019-03-16 04:34",
+                "text": "<p>That's great.</p>\n"
+            }
+        ]
     },
     {
         "alias": "grotto-escape-ii-environment",
@@ -747,6 +1316,116 @@ export default
                 "alias": "sprites-2",
                 "name": "Sprites"
             }
+        ],
+        "comments": [
+            {
+                "author": {
+                    "username": "withthelove",
+                    "name": "withthelove",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-11822-1527947805.png?itok=F--OZFR_"
+                },
+                "postDate": "2017-01-08 20:52",
+                "text": "<p>Fantastic!! &#160; Love the red glow from the lava on the bottom of the tiles on the bottom!!</p>\n<p>Do you have a specific palette you like to use for your stuff? &#160;It's all got a great consistency to it.</p>\n"
+            },
+            {
+                "author": {
+                    "username": "snabisch",
+                    "name": "Snabisch",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-17061-1410165851.png?itok=o_AmTWaE"
+                },
+                "postDate": "2017-01-09 03:22",
+                "text": "<p>I like the style it has. Thanks for sharing.</p>\n<p>&#160;</p>\n"
+            },
+            {
+                "author": {
+                    "username": "kavex",
+                    "name": "Kavex",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-42582-1484008187.png?itok=Nok8HQKB"
+                },
+                "postDate": "2017-01-09 18:32",
+                "text": "<p>&#160;</p>\n<p><img src=\"http://i.imgur.com/8pUUJtb.gif\" alt=\"\" width=\"600\" height=\"311\"/></p>\n<p>(<a href=\"http://imgur.com/a/h3ogt\">Full Size</a>)</p>\n<p>Fun little asset, by the way you are missing some sprites in your spritesheet.&#160;</p>\n"
+            },
+            {
+                "author": {
+                    "username": "ansimuz",
+                    "name": "ansimuz",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-20718-1423172993.png?itok=CEZ702Ss"
+                },
+                "postDate": "2017-01-10 19:56",
+                "text": "<p>Thanks. Oh could you tell me wich sprites are missing cant find thi miising ones. Thanks again.</p>\n"
+            },
+            {
+                "author": {
+                    "username": "kavex",
+                    "name": "Kavex",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-42582-1484008187.png?itok=Nok8HQKB"
+                },
+                "postDate": "2017-01-10 20:22",
+                "text": "<p>So far that I've noticed&#160;</p>\n<p>&#160;</p>\n<p><img src=\"http://i.imgur.com/VVThDia.png\" alt=\"\"/></p>\n<p>&#160;</p>\n<p>I also made a soild lava and water one becasue you didn't have one. Also&#160;individual slides would be useful in case someone wants to do there own atlas but I know that is a lot of work.&#160;</p>\n"
+            },
+            {
+                "author": {
+                    "username": "ansimuz",
+                    "name": "ansimuz",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-20718-1423172993.png?itok=CEZ702Ss"
+                },
+                "postDate": "2017-01-11 12:04",
+                "text": "<p>Thank you Kavex I have updated the files.</p>\n"
+            },
+            {
+                "author": {
+                    "username": "manthra",
+                    "name": "Manthra",
+                    "picture": null
+                },
+                "postDate": "2017-01-12 01:09",
+                "text": "<p>These are awesome! Great work man and thank you :D</p>\n"
+            },
+            {
+                "author": {
+                    "username": "darkshroom",
+                    "name": "DarkShroom",
+                    "picture": null
+                },
+                "postDate": "2017-01-12 09:21",
+                "text": "<p>what i quite like is the way they look good without edges, like the foliage, good work</p>\n"
+            },
+            {
+                "author": {
+                    "username": "nexis717",
+                    "name": "Nexis717",
+                    "picture": null
+                },
+                "postDate": "2017-01-13 16:17",
+                "text": "<p>This is awesome! Thank you!</p>\n"
+            },
+            {
+                "author": {
+                    "username": "kavex",
+                    "name": "Kavex",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-42582-1484008187.png?itok=Nok8HQKB"
+                },
+                "postDate": "2017-01-15 01:25",
+                "text": "<p>If anyone wants to play around with my unity scene then feel free <a href=\"https://github.com/Kavex/Game-Prototypes/tree/master/Unity/Grotto%20Escape%20II\">Kavex/Grotto Escape II</a></p>\n"
+            },
+            {
+                "author": {
+                    "username": "icedac",
+                    "name": "icedac",
+                    "picture": null
+                },
+                "postDate": "2017-03-04 09:49",
+                "text": "<p>awesome thanks for share !</p>\n"
+            },
+            {
+                "author": {
+                    "username": "hr78",
+                    "name": "HR78",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-23141-1546544427.png?itok=es4BikVJ"
+                },
+                "postDate": "2017-06-05 11:37",
+                "text": "<p>Wonderful, thanks!</p>\n"
+            }
         ]
     },
     {
@@ -796,7 +1475,27 @@ export default
                 "name": "CC-BY-SA 3.0"
             }
         ],
-        "collections": []
+        "collections": [],
+        "comments": [
+            {
+                "author": {
+                    "username": "snabisch",
+                    "name": "Snabisch",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-17061-1410165851.png?itok=o_AmTWaE"
+                },
+                "postDate": "2019-03-16 04:33",
+                "text": "<p>Great job</p>\n"
+            },
+            {
+                "author": {
+                    "username": "distractedmosfet",
+                    "name": "DistractedMOSFET",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-64784-1552685752.png?itok=zCq7ODh8"
+                },
+                "postDate": "2019-03-16 04:47",
+                "text": "<p>Thank you! Also your comment reminded me that I really should improve the preview images. So there's some new edits.</p>\n"
+            }
+        ]
     },
     {
         "alias": "2d-explosion-animations-3-frame-by-frame",
@@ -863,6 +1562,89 @@ export default
             {
                 "alias": "pixel-art-jrpg",
                 "name": "Pixel Art - JRPG"
+            }
+        ],
+        "comments": [
+            {
+                "author": {
+                    "username": "snabisch",
+                    "name": "Snabisch",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-17061-1410165851.png?itok=o_AmTWaE"
+                },
+                "postDate": "2019-02-24 04:06",
+                "text": "<p>Excellent design</p>\n"
+            },
+            {
+                "author": {
+                    "username": "sinestesia",
+                    "name": "Sinestesia",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-46825-1514050841.png?itok=5a9bMHYo"
+                },
+                "postDate": "2019-02-24 04:35",
+                "text": "<p>@<a class=\"username\" title=\"View user profile.\" href=\"https://opengameart.org/users/snabisch\">Snabisch</a> thanks mate!</p>\n"
+            },
+            {
+                "author": {
+                    "username": "beeslack",
+                    "name": "beeslack",
+                    "picture": null
+                },
+                "postDate": "2019-02-25 06:49",
+                "text": "<p>is bad game</p>\n<p>&#160;</p>\n"
+            },
+            {
+                "author": {
+                    "username": "beeslack",
+                    "name": "beeslack",
+                    "picture": null
+                },
+                "postDate": "2019-02-25 06:49",
+                "text": "<p>1234567890</p>\n<p>&#160;</p>\n<p>&#160;</p>\n"
+            },
+            {
+                "author": {
+                    "username": "sinestesia",
+                    "name": "Sinestesia",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-46825-1514050841.png?itok=5a9bMHYo"
+                },
+                "postDate": "2019-02-25 10:04",
+                "text": "<p><a class=\"username\" title=\"View user profile.\" href=\"https://opengameart.org/users/beeslack\">beeslack</a><br/>eee?</p>\n"
+            },
+            {
+                "author": {
+                    "username": "system-g6",
+                    "name": "System G6",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-54265-1520290757.png?itok=9pTUbciU"
+                },
+                "postDate": "2019-02-26 21:19",
+                "text": "<p>Looks nice, thanks for sharing :)</p>\n"
+            },
+            {
+                "author": {
+                    "username": "looneybits",
+                    "name": "looneybits",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-20929-1437118708.png?itok=bKYfbTlg"
+                },
+                "postDate": "2019-02-28 02:04",
+                "text": "<p>Wow Thats awesome!! Thx for sharing ;D</p>\n"
+            },
+            {
+                "author": {
+                    "username": "sinestesia",
+                    "name": "Sinestesia",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-46825-1514050841.png?itok=5a9bMHYo"
+                },
+                "postDate": "2019-02-28 02:48",
+                "text": "<p>*u*</p>\n"
+            },
+            {
+                "author": {
+                    "username": "looneybits",
+                    "name": "looneybits",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-20929-1437118708.png?itok=bKYfbTlg"
+                },
+                "postDate": "2019-02-28 05:22",
+                "text": "<p>;)</p>\n"
             }
         ]
     },
@@ -1001,6 +1783,368 @@ export default
                 "alias": "zuzu2",
                 "name": "ZUZU2"
             }
+        ],
+        "comments": [
+            {
+                "author": {
+                    "username": "ilikescifi",
+                    "name": "ILIKESCIFI",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-1515-1457091357.png?itok=eWCiQHI0"
+                },
+                "postDate": "2014-11-10 23:24",
+                "text": "<p>\"Let me know if you want more art in that style\"</p>\n<p/>\n<p>Yes yes and yes i would say! Thank you! Great stuff! Actually this is more than great.</p>\n"
+            },
+            {
+                "author": {
+                    "username": "tatermand",
+                    "name": "Tatermand",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-18458-1415677923.png?itok=LWfIBil-"
+                },
+                "postDate": "2014-11-11 00:01",
+                "text": "<p>Okay, thanks!&#160;Soon will be more</p>\n"
+            },
+            {
+                "author": {
+                    "username": "vidmaster",
+                    "name": "Vidmaster",
+                    "picture": null
+                },
+                "postDate": "2014-11-11 01:08",
+                "text": "<p>Hey Tatermand, I am going to use this :-) Originally I wanted a more pixel-arty style like <a href=\"http://opengameart.org/content/shmup-ships\">http://opengameart.org/content/shmup-ships</a> but I really dig your subsmission, its awesome! I love the clean, detailed style and the fact that the ships can be configured.</p>\n<p>Although impudent, I would like to request a few things (things that are missing from the other stuff I wanted to use thus far as well). For the record, I am building a space RTS game based on carrier warfare, think World War 2 Pacific Theater with large carrier groups operating fighter squadrons. No base building involved. </p>\n<p>art requirements for my game:</p>\n<ul><li>I need some capital ships in the same style as fighters, ideally really large (like 10 times the size) with rotatable turrets</li>\n<li>I need explosions...&#160;&#160; of course you need to blow up ships :-)&#160; With the pixel-art style, I had lots and lots of explosions to choose from but if I use something with this detail, I need something that matches the style. My ideal conception would actually be ship-specific explosions with ship-specific debris. For capital ships, I had planned to do something like Wing Commander 3 did, with the capship burning out and being reduced to a floating husk. Problem with this ship-specific explosion thing is that one probably needs variants as well to avoid the battle from looking repetitive. (Game engine has been build with this in mind already and supports the feature)</li>\n</ul><p>nice-to-haves:</p>\n<ul><li>I would require a few more asteroid types (actual variations, not recolors), specifically some bigger ones</li>\n<li>some alternative starfields would be nice (to simulate another stellar system)</li>\n<li>missiles, beams and blasts, though these are definitly lowest on the list as there is lots of art appropriate to go with yours.</li>\n<li>more ships of course</li>\n<li>ships of a different style, which could be used as another race / faction</li>\n</ul><p>Please do not feel obliged to do any of this :-)</p>\n<p>&#160;</p>\n"
+            },
+            {
+                "author": {
+                    "username": "tatermand",
+                    "name": "Tatermand",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-18458-1415677923.png?itok=LWfIBil-"
+                },
+                "postDate": "2014-11-11 01:36",
+                "text": "<p>Hey Vidmaster! Thanks,&#160;I'm glad that you like it!<br/>Actualy I have some plans to make capital and cargo ships, and other classes, and even races,&#160;but unfortunately I do not know when I can do it all.<br/>At what stage is your project? Thus I understand how much I have time for it.</p>\n<p>With explosions I have a problem - I'm not so good at animation. I can certainly do particles, but with frame by frame animation I'm afraid it will take too much time,&#160;and in such style procedural effects based on the drawn particles - probably will look better?</p>\n<p>P.S. sorry for my english</p>\n"
+            },
+            {
+                "author": {
+                    "username": "vidmaster",
+                    "name": "Vidmaster",
+                    "picture": null
+                },
+                "postDate": "2014-11-11 03:04",
+                "text": "<p>You have <strong>as much time as you want</strong> since this you are sacraficing your free time for stuff :-)</p>\n<p>However, to give you a more concrete answer, still a lot of time. I am currently quite busy with finishing my Masters and I need to update the scripting language and pathfinding AI first before I need the next content. And development is not content driven at all, as my in-house engine is general purpose. I am currently developing a Harvest Moon clone, the space RTS, a multiplayer NES-style Zelda-clone, a medieval strategy game and an arcade shooter in parallel to assure the engine's flexibility.</p>\n<p>While I do intent do get each of these games to an actually playable, polished state at some point the focus is still on engine development. I am a game designer and software engineer, I am not terribly good at Art (as my few submissions here on the side indicate).</p>\n<p>If you are indeed interested in a long-term cooperation, we should probably move this discussion out of the comments and to PM or mail. Have fun :-)</p>\n<p>&#160;</p>\n"
+            },
+            {
+                "author": {
+                    "username": "tatermand",
+                    "name": "Tatermand",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-18458-1415677923.png?itok=LWfIBil-"
+                },
+                "postDate": "2014-11-11 03:59",
+                "text": "<p>Nice :)</p>\n<p>About long-term cooperation &#8212; sure, why not - I draw in my spare time, so I will be glad if someone will come in handy for a real project.</p>\n<p>By the way, I'm not an artist, too - project manager and game designer.</p>\n<p>&#160;</p>\n<p>I have a terrible English, but we can try to communicate :) Write me a PM or mail <a href=\"mailto:tatermand@gmail.com\">tatermand@gmail.com</a>&#160;</p>\n"
+            },
+            {
+                "author": {
+                    "username": "bonsaiheldin",
+                    "name": "Bonsaiheldin",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-4779-1528460971.png?itok=dh2x4Tiz"
+                },
+                "postDate": "2014-11-11 09:47",
+                "text": "<p>Tatermand: Awesome style. You are absolutely talented. I hope the stuff you create for Vidmaster will be available for us poor ones too :P It's really great. I would absolutely love to see more in that style.</p>\n<p>I'm programming a space game myself. This is how one of your ships looks in it :) It's a HTML5 game running in the browser:&#160;<a href=\"http://picload.org/image/capapwa/screeny.jpg\">http://picload.org/image/capapwa/screeny.jpg</a></p>\n<p>You say you're not an artist, yet you have uploaded already some of the best art assets on OpenGameArt and this one here is immediately number 1# of the week :D</p>\n<p>There is a thing you could improve: The sparks of the stars should have all the same angle. This effect appears through the lense of the camera which shot a picture. It's fixed in the sense that all sparks on a picture have the same angle.</p>\n<p>Vidmaster: Your space game sounds similar to mine, i got rotable turrets too (they always point to your cursor) and complete free, real time controls. Is there something you have to show already? I'm always interested in sharing inspirations and ideas with other gamedevs :) My game is playable at <a href=\"http://websocket.bonsaiheld.org/\">http://websocket.bonsaiheld.org/</a> (multiplayer doesn't work at the moment).</p>\n"
+            },
+            {
+                "author": {
+                    "username": "tatermand",
+                    "name": "Tatermand",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-18458-1415677923.png?itok=LWfIBil-"
+                },
+                "postDate": "2014-11-11 11:30",
+                "text": "<p>Nice game! Waiting for when it will be more complete, but already now I like it.&#160;I conceived this pack just for something like this!<br/>And yes, if I'm going to draw something in my free time - I'll upload it here.</p>\n<p>Thank you!&#160;</p>\n"
+            },
+            {
+                "author": {
+                    "username": "ilikescifi",
+                    "name": "ILIKESCIFI",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-1515-1457091357.png?itok=eWCiQHI0"
+                },
+                "postDate": "2014-11-11 23:51",
+                "text": "<p>Ohhhh this is great. Cant wait to explore new planets and ships of you! The black &amp; white scribbles of the bigger ships already look promising!</p>\n<p>&#160;</p>\n<p>@<a class=\"username\" title=\"View user profile.\" lang=\"\" href=\"http://opengameart.org/users/bonsaiheldin\" xml:lang=\"\">Bonsaiheldin</a>: Your game looks, feels and plays awesome! It&#180;s already a lot of fun just to fly around, blast up some enemies, land and upgrade. Great work!</p>\n"
+            },
+            {
+                "author": {
+                    "username": "rainforesthuh",
+                    "name": "Rainforest_huh",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-18525-1415962171.jpg?itok=zdBywcfR"
+                },
+                "postDate": "2014-11-14 06:46",
+                "text": "<p>Wow, it's a great pack. I've been searching for graphics like this for days but I think, I've finally found it :)</p>\n<p>I have an idea for a game and I need graphics like this. I need only planets, stars, comets and some backgrounds with stars. There are some images, I'd be glad to see in this pack:</p>\n<p>More different planets, stars(maybe animated a bit: shining, glowing).</p>\n<p>Some star flashes/outbreakes would be nice.</p>\n"
+            },
+            {
+                "author": {
+                    "username": "tatermand",
+                    "name": "Tatermand",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-18458-1415677923.png?itok=LWfIBil-"
+                },
+                "postDate": "2014-11-14 14:50",
+                "text": "<p>Thanks all for feedback!</p>\n<p>Whats new:</p>\n<p>&#8226; 2 big ships<br/>&#8226; 4 weapons<br/>&#8226; 3 &#160;planets<br/>&#8226; 2 nebulas<br/>and 1 strange thingy</p>\n<p>Enjoy!<br/>&#160;</p>\n"
+            },
+            {
+                "author": {
+                    "username": "ilikescifi",
+                    "name": "ILIKESCIFI",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-1515-1457091357.png?itok=eWCiQHI0"
+                },
+                "postDate": "2014-11-14 22:24",
+                "text": "<p>Woaaa! Feel hugged Tatermand! The art section in the credits of my little space game is yours!</p>\n"
+            },
+            {
+                "author": {
+                    "username": "bonsaiheldin",
+                    "name": "Bonsaiheldin",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-4779-1528460971.png?itok=dh2x4Tiz"
+                },
+                "postDate": "2014-11-15 05:05",
+                "text": "<p>Iamjot: Thanks :)</p>\n<p>Tatermand: Great stuff, expect for <a href=\"http://picload.org/image/coglgco/whoops.jpg\">http://picload.org/image/coglgco/whoops.jpg</a> :)</p>\n"
+            },
+            {
+                "author": {
+                    "username": "jalastram",
+                    "name": "jalastram",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-10879-1531657060.jpg?itok=BtYlwbv7"
+                },
+                "postDate": "2014-11-17 00:47",
+                "text": "<p>This is exceptional</p>\n"
+            },
+            {
+                "author": {
+                    "username": "timsupermonkey",
+                    "name": "Tim_Supermonkey",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-9347-1450848929.png?itok=tln2IJux"
+                },
+                "postDate": "2014-11-18 19:00",
+                "text": "<p>I would really like to use this, but since the update, the .psd file doesn't seem to work. Please either fix it or provide .xcf (gimp) files. Also, yes. More art in this style would definitely be great.</p>\n"
+            },
+            {
+                "author": {
+                    "username": "tatermand",
+                    "name": "Tatermand",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-18458-1415677923.png?itok=LWfIBil-"
+                },
+                "postDate": "2014-11-19 07:44",
+                "text": "<p>lamjot, jalastram, thank you!</p>\n<p>&#160;Bonsaiheldin, you are welcome! Yeah, little planet defect :)</p>\n<p>tim_supermonk, I saved it in max compatibility with older versions. Sorry, I don't use gimp. Maybe something went wrong when you downloaded the file?</p>\n"
+            },
+            {
+                "author": {
+                    "username": "timsupermonkey",
+                    "name": "Tim_Supermonkey",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-9347-1450848929.png?itok=tln2IJux"
+                },
+                "postDate": "2014-11-19 12:30",
+                "text": "<p>Yes! It worked now. I had tried it multiple times before and it didn't work for some reason. By the way my username is Tim_Supermonkey, but OGA cut it off.</p>\n"
+            },
+            {
+                "author": {
+                    "username": "indiedevs",
+                    "name": "IndieDevs",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-11683-1517705529.jpg?itok=XgXx46cL"
+                },
+                "postDate": "2014-11-19 21:43",
+                "text": "<p>This is awesome! I am really thinking about using these sprites to make an open world space game.Would it be possible to see some space stations or some bullets or projectiles?</p>\n<p>Maybe some alien creatures that will be in space? The more i play with your sprites the more i love them.</p>\n<p>epic job on this artwork i cant wait to see more.</p>\n<p>&#160;</p>\n"
+            },
+            {
+                "author": {
+                    "username": "eugeneloza",
+                    "name": "eugeneloza",
+                    "picture": null
+                },
+                "postDate": "2014-11-24 21:06",
+                "text": "<p>Awesome!</p>\n"
+            },
+            {
+                "author": {
+                    "username": "timsupermonkey",
+                    "name": "Tim_Supermonkey",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-9347-1450848929.png?itok=tln2IJux"
+                },
+                "postDate": "2014-11-26 14:55",
+                "text": "<p>This is great. More like this would be wonderful.</p>\n"
+            },
+            {
+                "author": {
+                    "username": "zooltan",
+                    "name": "Zooltan",
+                    "picture": null
+                },
+                "postDate": "2014-12-06 11:27",
+                "text": "<p>\"Let me know if you want more art in that style.\" YES! This is exactly the style i have been looking for. I'm making a 2D space game, but i don't want the pixelart style.</p>\n<p>In my game i often use rotating turrets on top of the ships, so if you make some of those, I'll be very happy!</p>\n"
+            },
+            {
+                "author": {
+                    "username": "tatermand",
+                    "name": "Tatermand",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-18458-1415677923.png?itok=LWfIBil-"
+                },
+                "postDate": "2014-12-12 13:40",
+                "text": "<p>Hey,</p>\n<p> Thank you guys!&#160;I am sorry that took so long to respond to you.</p>\n<p>IndieDevs, yes, I'm working on projectiles and other effects!</p>\n<p>Zooltan, each ship bigger than fighters &#8212; already have a rotating turret on it's top :)&#160;</p>\n<p>I created a topic, to keep you informed about what I do, and so you can leave your suggestions there:<br/><a href=\"http://opengameart.org/forumtopic/tatermands-art#comment-33399&#160;\">http://opengameart.org/forumtopic/tatermands-art#comment-33399&#160;</a></p>\n"
+            },
+            {
+                "author": {
+                    "username": "vidmaster",
+                    "name": "Vidmaster",
+                    "picture": null
+                },
+                "postDate": "2014-12-16 02:49",
+                "text": "<p>Misa wanna biiiiiigggg captial ships, like ten times bigger than the currently available medium sized crafts. I'd use the small and medium ones as fighters and bombers, the currently large ones as gunboats but I'd really like some destroyers, carriers and transports :-)</p>\n"
+            },
+            {
+                "author": {
+                    "username": "timsupermonkey",
+                    "name": "Tim_Supermonkey",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-9347-1450848929.png?itok=tln2IJux"
+                },
+                "postDate": "2015-01-29 15:22",
+                "text": "<p>Would it be ok if I were to use this and other art of yours in a game that I would release in a sponsorship agreement in which the sponsor (Newgrounds, Armourgames, etc.) would pay a certain amount to have the game branded with their logo? Of course I would credit you. If this is not possible would you be willing to add CC-BY licence? Thanks.</p>\n<p>&#160;</p>\n<p>PS: The game would be totally free to play.</p>\n"
+            },
+            {
+                "author": {
+                    "username": "timsupermonkey",
+                    "name": "Tim_Supermonkey",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-9347-1450848929.png?itok=tln2IJux"
+                },
+                "postDate": "2015-01-21 15:16",
+                "text": "<p>Wow. Those sketches look really good. By all means, please continue these.</p>\n"
+            },
+            {
+                "author": {
+                    "username": "snaker190",
+                    "name": "snaker190",
+                    "picture": null
+                },
+                "postDate": "2015-02-17 15:42",
+                "text": "<p><strong>check it out the art credit is your!!<br/></strong></p>\n<p><strong><a href=\"https://www.youtube.com/watch?v=W4kosIxVo7M\">https://www.youtube.com/watch?v=W4kosIxVo7M</a></strong></p>\n"
+            },
+            {
+                "author": {
+                    "username": "tatermand",
+                    "name": "Tatermand",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-18458-1415677923.png?itok=LWfIBil-"
+                },
+                "postDate": "2015-02-21 05:03",
+                "text": "<p>Hey guys! Thank you all, for games that you made with this art, and your comments.</p>\n<p>I made a tutorial about the style in which I work, so please, enjoy and leave your feedbacks!<br/><a href=\"http://opengameart.org/forumtopic/sci-fi-art-tutorial\">http://opengameart.org/forumtopic/sci-fi-art-tutorial</a></p>\n"
+            },
+            {
+                "author": {
+                    "username": "elijahrain",
+                    "name": "ElijahRain",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-13791-1396659819.jpg?itok=qHuTaRGh"
+                },
+                "postDate": "2016-02-14 23:53",
+                "text": "<p>Could you please make and svg or png version of this?&#160;</p>\n"
+            },
+            {
+                "author": {
+                    "username": "aragi",
+                    "name": "Aragi",
+                    "picture": null
+                },
+                "postDate": "2016-03-09 06:07",
+                "text": "<p>Hello!Keep up the good work sir your art is amazing!!!</p>\n<p>One question only:</p>\n<p>Is there any chance you can reupload it as CC-BY license or CC0 like your space effects file?</p>\n"
+            },
+            {
+                "author": {
+                    "username": "inspired2150",
+                    "name": "Inspired2150",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-36801-1467978920.jpg?itok=vWKreJgt"
+                },
+                "postDate": "2016-07-08 08:13",
+                "text": "<p>Heya!</p>\n<p>Thank you for sharing these amazing sprites!<br/>I really love your style.</p>\n<p>This is my very first game made with your assets. Take a look if you are interested:)<br/><a href=\"https://play.google.com/store/apps/details?id=com.II.SpaceBase&amp;hl=en\">https://play.google.com/store/apps/details?id=com.II.SpaceBase&amp;hl=en</a></p>\n<p>Do you have any additional sprites for sale anywhere?</p>\n<p>Thanks again for sharing these!&#160;</p>\n"
+            },
+            {
+                "author": {
+                    "username": "rasteron",
+                    "name": "rasteron",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-15413-1403516211.png?itok=mDOP6zKx"
+                },
+                "postDate": "2016-07-12 21:00",
+                "text": "<p>Nice assets, just did a classic remake here: <a href=\"http://www.slidedb.com/games/rasteroids\">http://www.slidedb.com/games/rasteroids</a></p>\n<p>Free download. Full credits on main screen, thanks for sharing!</p>\n"
+            },
+            {
+                "author": {
+                    "username": "antix-development",
+                    "name": "Antix Development",
+                    "picture": null
+                },
+                "postDate": "2016-10-16 04:00",
+                "text": "<p>I really like your art, fantastic!</p>\n<p>I am looking at using some of this set in my new game. I'm lookiing specifically at the layer named \"Cold Nebula\". It's really awesome but if you examine it as a seperate layer you will see in the bottom right portion of the image that there is a noticable large oval shape that looks pretty ugly when the image is scaled up.</p>\n<p>&#160;Is there any chance you might update this pack and correct that issue?</p>\n<p>&#160;regards :)</p>\n"
+            },
+            {
+                "author": {
+                    "username": "anothergamedev",
+                    "name": "anotherGameDev",
+                    "picture": null
+                },
+                "postDate": "2017-06-17 11:59",
+                "text": "<p>hi,</p>\n<p>Can i use this in a commcerical game? your comment \"send me a free copy of the game\" is a bit confusing with the CC-BY-SA licensing?</p>\n<p>&#160;</p>\n<p>thanks</p>\n<p>&#160;</p>\n<p>&#160;</p>\n"
+            },
+            {
+                "author": {
+                    "username": "13rice",
+                    "name": "13rice",
+                    "picture": null
+                },
+                "postDate": "2017-07-23 15:32",
+                "text": "<p>Thank you Tatermand for sharing this beautiful pieces.</p>\n<p>&#160;</p>\n<p>I'm using your planets in my shoot'em up, Infinity - To The Top.</p>\n<p>Flash : <a href=\"http://newgrounds.com/portal/view/696304\">http://newgrounds.com/portal/view/696304</a></p>\n<p>&#160;</p>\n<p>They fit perfectly in the endless space ;)</p>\n"
+            },
+            {
+                "author": {
+                    "username": "iranosmorloy",
+                    "name": "IranosMorloy",
+                    "picture": null
+                },
+                "postDate": "2017-12-26 05:56",
+                "text": "<p>Hey Tatermand!</p>\n<p>&#160;</p>\n<p>I am going to use this in my online browser game. It's going to actually take some time, but as long as it's going to be a browser game, a copy wouldn't be right thing, you know. But I am going to create some packs later on, so the best pack for you for free should go as well? And what about credits? What should I put inside about you?</p>\n<p>&#160;</p>\n<p>Thank you. Really awesome textures! :-)</p>\n"
+            },
+            {
+                "author": {
+                    "username": "ithieu15",
+                    "name": "ithieu15",
+                    "picture": null
+                },
+                "postDate": "2018-03-26 06:49",
+                "text": "<p>Thank You very much :D</p>\n<p>&#160;</p>\n"
+            },
+            {
+                "author": {
+                    "username": "asteroiddeflector",
+                    "name": "AsteroidDeflector",
+                    "picture": null
+                },
+                "postDate": "2018-04-03 05:45",
+                "text": "<p>I used some of this art in my Steam game Asteroid Deflector XL - thanks a lot. A key is in your mail Tatermand!</p>\n<p><a title=\"Asteroid Deflector XL on Steam\" href=\"http://store.steampowered.com/app/818830/Asteroid_Deflector_XL/\" target=\"_blank\">http://store.steampowered.com/app/818830/Asteroid_Deflector_XL/</a></p>\n"
+            },
+            {
+                "author": {
+                    "username": "dregmaster",
+                    "name": "Dreg_Master",
+                    "picture": null
+                },
+                "postDate": "2019-03-10 19:14",
+                "text": "<p><strong>Thank you so much</strong>, I have used some Ships in CORE. Free to play personal project <a title=\"Core\" href=\"http://bosssoftaware.net/Games/CoreGL/CoreGL.html\" target=\"_blank\">http://bosssoftaware.net/Games/CoreGL/CoreGL.html</a></p>\n<p/>\n"
+            },
+            {
+                "author": {
+                    "username": "lubin",
+                    "name": "Lubin",
+                    "picture": null
+                },
+                "postDate": "2019-03-08 19:48",
+                "text": "<p>Hey, thanks for your great work.</p>\n<p>I used this asset in my academic project for Construct 3 in UCSC CMPM 80K. And I will credit you for that even though&#160;I will not publish that game.</p>\n<p>Please let me know if you have any inconvenience.</p>\n"
+            },
+            {
+                "author": {
+                    "username": "ilia-kruglov",
+                    "name": "ILIA KRUGLOV",
+                    "picture": null
+                },
+                "postDate": "2019-03-16 03:41",
+                "text": "<p>Fantastic. Thank you.</p>\n"
+            }
         ]
     },
     {
@@ -1069,7 +2213,72 @@ export default
                 "name": "CC0"
             }
         ],
-        "collections": []
+        "collections": [],
+        "comments": [
+            {
+                "author": {
+                    "username": "looneybits",
+                    "name": "looneybits",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-20929-1437118708.png?itok=bKYfbTlg"
+                },
+                "postDate": "2019-03-12 04:54",
+                "text": "<p>That's awesome !!<br/>Thx for sharing ;)</p>\n"
+            },
+            {
+                "author": {
+                    "username": "janachumi",
+                    "name": "JanaChumi",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-51940-1512866554.png?itok=ldi6R88z"
+                },
+                "postDate": "2019-03-12 08:30",
+                "text": "<p>glad you liked ^_^</p>\n"
+            },
+            {
+                "author": {
+                    "username": "looneybits",
+                    "name": "looneybits",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-20929-1437118708.png?itok=bKYfbTlg"
+                },
+                "postDate": "2019-03-12 08:46",
+                "text": "<p>;)</p>\n"
+            },
+            {
+                "author": {
+                    "username": "knik1985",
+                    "name": "knik1985",
+                    "picture": null
+                },
+                "postDate": "2019-03-12 09:34",
+                "text": "<p>fascinating work! thanks for sharing :)</p>\n"
+            },
+            {
+                "author": {
+                    "username": "janachumi",
+                    "name": "JanaChumi",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-51940-1512866554.png?itok=ldi6R88z"
+                },
+                "postDate": "2019-03-12 14:56",
+                "text": "<p>thank you for the support</p>\n"
+            },
+            {
+                "author": {
+                    "username": "snabisch",
+                    "name": "Snabisch",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-17061-1410165851.png?itok=o_AmTWaE"
+                },
+                "postDate": "2019-03-14 03:19",
+                "text": "<p>Interesting proposal</p>\n"
+            },
+            {
+                "author": {
+                    "username": "janachumi",
+                    "name": "JanaChumi",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-51940-1512866554.png?itok=ldi6R88z"
+                },
+                "postDate": "2019-03-14 18:41",
+                "text": "<p>Thank you for your feedback</p>\n"
+            }
+        ]
     },
     {
         "alias": "helix",
@@ -1112,7 +2321,27 @@ export default
                 "name": "CC-BY 4.0"
             }
         ],
-        "collections": []
+        "collections": [],
+        "comments": [
+            {
+                "author": {
+                    "username": "hitctrl",
+                    "name": "Hitctrl",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-43252-1551933733.jpg?itok=FJKSZrnB"
+                },
+                "postDate": "2019-03-15 01:23",
+                "text": "<p>Hey Stefan,</p>\n<p>&#160;</p>\n<p>This piece is fuckin sick man! Great ambient mood and it is very melodic and I love the percussive plucks in there to help drive the piece along nicely. Thank you for sharing your art! Cheers!</p>\n"
+            },
+            {
+                "author": {
+                    "username": "elkdarkshire",
+                    "name": "ElkDarkshire",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-22698-1542969914.gif?itok=Scu9jztN"
+                },
+                "postDate": "2019-03-15 02:20",
+                "text": "<p>very great :)</p>\n"
+            }
+        ]
     },
     {
         "alias": "electronic-music-pack-1",
@@ -1159,7 +2388,18 @@ export default
                 "name": "CC-BY-SA 4.0"
             }
         ],
-        "collections": []
+        "collections": [],
+        "comments": [
+            {
+                "author": {
+                    "username": "snabisch",
+                    "name": "Snabisch",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-17061-1410165851.png?itok=o_AmTWaE"
+                },
+                "postDate": "2019-03-15 05:10",
+                "text": "<p>They're great.</p>\n"
+            }
+        ]
     },
     {
         "alias": "meadow-16x16-tileset",
@@ -1211,6 +2451,17 @@ export default
             {
                 "alias": "rpg-td",
                 "name": "RPG-t.d"
+            }
+        ],
+        "comments": [
+            {
+                "author": {
+                    "username": "looneybits",
+                    "name": "looneybits",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-20929-1437118708.png?itok=bKYfbTlg"
+                },
+                "postDate": "2019-03-16 04:20",
+                "text": "<p>Awesome!! Thx for sharing ;)</p>\n"
             }
         ]
     },
@@ -1277,7 +2528,27 @@ export default
                 "name": "OGA-BY 3.0"
             }
         ],
-        "collections": []
+        "collections": [],
+        "comments": [
+            {
+                "author": {
+                    "username": "snabisch",
+                    "name": "Snabisch",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-17061-1410165851.png?itok=o_AmTWaE"
+                },
+                "postDate": "2019-03-14 03:18",
+                "text": "<p>Very cool.</p>\n"
+            },
+            {
+                "author": {
+                    "username": "looneybits",
+                    "name": "looneybits",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-20929-1437118708.png?itok=bKYfbTlg"
+                },
+                "postDate": "2019-03-16 04:15",
+                "text": "<p>That's amazing !!!<br/>Thanks for sharing ;)</p>\n"
+            }
+        ]
     },
     {
         "alias": "4-colour-overworld-tileset",
@@ -1334,6 +2605,80 @@ export default
             {
                 "alias": "gameboy-8x8-pixel-tilesets",
                 "name": "Gameboy 8x8 Pixel Tilesets"
+            }
+        ],
+        "comments": [
+            {
+                "author": {
+                    "username": "medicinestorm",
+                    "name": "MedicineStorm",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-3656-1346970297.png?itok=a0pnbKu5"
+                },
+                "postDate": "2019-02-15 10:07",
+                "text": "<p>Nice!</p>\n<p>Just fyi, tags like \"2D\" are redundant when this is in the 2d art category. See&#160;<a href=\"https://opengameart.org/content/art-tags\">https://opengameart.org/content/art-tags</a> for additional tagging tips. Also, this is the only submission in the \"pixel-art\" category, but only because everyone else uses \"pixelart\" tag instead.</p>\n"
+            },
+            {
+                "author": {
+                    "username": "stealthix",
+                    "name": "stealthix",
+                    "picture": null
+                },
+                "postDate": "2019-02-15 10:45",
+                "text": "<p>Thanks for the hint, will keep that in mind :)</p>\n"
+            },
+            {
+                "author": {
+                    "username": "drummyfish",
+                    "name": "drummyfish",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-55990-1527187035.png?itok=HBRLQ0NB"
+                },
+                "postDate": "2019-02-15 11:42",
+                "text": "<p>Very nice style, it would be awesome to expand to a more complete tileset, would definitely go to my favorite collection.</p>\n"
+            },
+            {
+                "author": {
+                    "username": "stealthix",
+                    "name": "stealthix",
+                    "picture": null
+                },
+                "postDate": "2019-02-15 11:44",
+                "text": "<p>Thanks for the feedback. Sure thing, mind giving me some directions of what you have in mind?</p>\n"
+            },
+            {
+                "author": {
+                    "username": "drummyfish",
+                    "name": "drummyfish",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-55990-1527187035.png?itok=HBRLQ0NB"
+                },
+                "postDate": "2019-02-15 16:14",
+                "text": "<p>I'm thinking additional variations of trees (conifer, leafless, stump, ...), buildings, things like fences, barrels, chests, levers, statues, interior stuff. Maybe experiment with adding a few colors even? Just some ideas to build upon this great work. I'm already seeing a great GBC-style game in this.</p>\n"
+            },
+            {
+                "author": {
+                    "username": "stealthix",
+                    "name": "stealthix",
+                    "picture": null
+                },
+                "postDate": "2019-02-15 16:22",
+                "text": "<p>These are some nice suggestions, thank you a lot :) I will try to get some of these working this weekend ~</p>\n"
+            },
+            {
+                "author": {
+                    "username": "snabisch",
+                    "name": "Snabisch",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-17061-1410165851.png?itok=o_AmTWaE"
+                },
+                "postDate": "2019-02-17 13:07",
+                "text": "<p>Precious, I love it.</p>\n"
+            },
+            {
+                "author": {
+                    "username": "hythlodaeus",
+                    "name": "Hythlodaeus",
+                    "picture": null
+                },
+                "postDate": "2019-02-17 18:48",
+                "text": "<p>Hi Stealthix, very nice work! A small appeal in the line of drummyfish: should you consider to indeed make a complete tileset of this, including a variety of dungeons, monsters, and bosses, I'm positive the nice people at the <a href=\"http://www.solarus-games.org/\" target=\"_blank\">Solarus</a> community would be happy to implement it their package and give you credit! While there is certainly plenty of CC bits and bobs of 2D zelda-like art around the web, complete tilesets are a rarity, and one that could give birth to entire game projects!</p>\n"
             }
         ]
     },
@@ -1409,6 +2754,71 @@ export default
             {
                 "alias": "zelda-style-tilesets",
                 "name": "Zelda style tilesets"
+            }
+        ],
+        "comments": [
+            {
+                "author": {
+                    "username": "illusionofmana",
+                    "name": "IllusionOfMana",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-53669-1542770946.png?itok=Ksm6-Uxk"
+                },
+                "postDate": "2019-03-01 14:46",
+                "text": "<p>very cute absolutely love it</p>\n"
+            },
+            {
+                "author": {
+                    "username": "flofflewoffle-flooferwoofer",
+                    "name": "Flofflewoffle F...",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-36445-1551815571.png?itok=unPxrec9"
+                },
+                "postDate": "2019-03-02 01:28",
+                "text": "<p>it is cute!!</p>\n"
+            },
+            {
+                "author": {
+                    "username": "jestan",
+                    "name": "jestan",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-55972-1525381608.png?itok=9bwHopQp"
+                },
+                "postDate": "2019-03-02 17:38",
+                "text": "<p>Thanks!!</p>\n"
+            },
+            {
+                "author": {
+                    "username": "jestan",
+                    "name": "jestan",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-55972-1525381608.png?itok=9bwHopQp"
+                },
+                "postDate": "2019-03-02 17:38",
+                "text": "<p>Thanks, glad you like it!</p>\n"
+            },
+            {
+                "author": {
+                    "username": "snabisch",
+                    "name": "Snabisch",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-17061-1410165851.png?itok=o_AmTWaE"
+                },
+                "postDate": "2019-03-04 02:29",
+                "text": "<p>Great job.</p>\n"
+            },
+            {
+                "author": {
+                    "username": "demetrius",
+                    "name": "Demetrius",
+                    "picture": null
+                },
+                "postDate": "2019-03-05 09:38",
+                "text": "<p>Hello! Thanks for the tileset, it's gorgeous</p>\n<p>How can we send a donation? You haven't specified a donation link :o</p>\n"
+            },
+            {
+                "author": {
+                    "username": "jestan",
+                    "name": "jestan",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-55972-1525381608.png?itok=9bwHopQp"
+                },
+                "postDate": "2019-03-05 09:58",
+                "text": "<p>Hey man, thanks a ton for your interest and support!!</p>\n<p>Oh, I've added a link, haha.</p>\n<p>Ko-fi oughtta do it:</p>\n<p><a href=\"https://ko-fi.com/jestan\">https://ko-fi.com/jestan</a></p>\n<p>Thanks again.</p>\n"
             }
         ]
     },
@@ -1551,7 +2961,18 @@ export default
                 "name": "CC0"
             }
         ],
-        "collections": []
+        "collections": [],
+        "comments": [
+            {
+                "author": {
+                    "username": "snabisch",
+                    "name": "Snabisch",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-17061-1410165851.png?itok=o_AmTWaE"
+                },
+                "postDate": "2019-03-16 04:36",
+                "text": "<p>That's great.</p>\n"
+            }
+        ]
     },
     {
         "alias": "dark-fantasy-item-sprites",
@@ -1639,6 +3060,26 @@ export default
                 "alias": "stendhal-potential",
                 "name": "Stendhal Potential"
             }
+        ],
+        "comments": [
+            {
+                "author": {
+                    "username": "manwesulimo2004",
+                    "name": "manwesulimo2004",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-1197-1346315833.jpg?itok=k_IirG0h"
+                },
+                "postDate": "2012-05-02 04:37",
+                "text": "<p>Sweet.</p>\n"
+            },
+            {
+                "author": {
+                    "username": "ebyaz",
+                    "name": "ebyaz",
+                    "picture": null
+                },
+                "postDate": "2012-05-29 07:57",
+                "text": "<p>it can be used as inventory images. thank you mate</p>\n"
+            }
         ]
     },
     {
@@ -1689,6 +3130,17 @@ export default
             {
                 "alias": "magic-effects",
                 "name": "Magic Effects"
+            }
+        ],
+        "comments": [
+            {
+                "author": {
+                    "username": "snabisch",
+                    "name": "Snabisch",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-17061-1410165851.png?itok=o_AmTWaE"
+                },
+                "postDate": "2019-03-11 12:32",
+                "text": "<p>Good design</p>\n"
             }
         ]
     },
@@ -1935,6 +3387,197 @@ export default
                 "alias": "xm2",
                 "name": "xm2"
             }
+        ],
+        "comments": [
+            {
+                "author": {
+                    "username": "ravenmore",
+                    "name": "Ravenmore",
+                    "picture": null
+                },
+                "postDate": "2012-06-29 15:03",
+                "text": "<p>Oh, they're made with a dark background in mind, but probably will work in other situations =)</p>\n<p>Thanks to the admins for reminding me I need to do a proper preview.</p>\n"
+            },
+            {
+                "author": {
+                    "username": "manwesulimo2004",
+                    "name": "manwesulimo2004",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-1197-1346315833.jpg?itok=k_IirG0h"
+                },
+                "postDate": "2012-07-01 13:36",
+                "text": "<p>They look great! The style reminds me of Torchlight. Maybe someone could also upload some PNGs?</p>\n"
+            },
+            {
+                "author": {
+                    "username": "ravenmore",
+                    "name": "Ravenmore",
+                    "picture": null
+                },
+                "postDate": "2012-07-24 07:29",
+                "text": "<p>Updated with a coin icon.</p>\n<p>Included transparent .png's in the original size (512x512) as a .zip file.</p>\n<p>Bit overworked lately but I'll do my best to update it with at least one new icon per week.</p>\n<p>We'll see how it goes!</p>\n<p>Enjoy! =)</p>\n"
+            },
+            {
+                "author": {
+                    "username": "udaho",
+                    "name": "udaho",
+                    "picture": null
+                },
+                "postDate": "2013-02-06 14:02",
+                "text": "<p>hi Ravenmore!</p>\n<p>i wanted to drop by to say we're using your icon pack in our game, <a href=\"http://www.youtube.com/watch?v=RmM7novu9UE\">FlipOut</a>. we entered it into the Ouya Game Jam contest. you can see the video we made for it here: <a href=\"http://www.youtube.com/watch?v=RmM7novu9UE\">http://www.youtube.com/watch?v=RmM7novu9UE</a></p>\n<p>great job! the art works really well for us. right now we're using the icon pack 2.0. we'd have loved to use 1.1 as well but those didn't come in transparent .png or .psd and weren't as high resolution. i see you said you've lost the original source files, which is unfortunate. but that's okay, we're doing fine without.</p>\n<p>thanks for sharing your art! and keep up the good work!</p>\n"
+            },
+            {
+                "author": {
+                    "username": "vgrenditions",
+                    "name": "VGRenditions",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-9618-1381198597.png?itok=gXC2pYEM"
+                },
+                "postDate": "2013-10-07 22:20",
+                "text": "<p>Hello again Ravenmore! This icon pack made my game possible...the perfect theme! (He also did a great job on my characters too, if you must know). Look forward to working with him again in the future. Ravenmore's artwork is featured on my upcoming board game here:</p>\n<p><a href=\"http://www.CastleDefendersBoardGame.com\" target=\"_blank\">www.CastleDefendersBoardGame.com</a></p>\n"
+            },
+            {
+                "author": {
+                    "username": "ravenmore",
+                    "name": "Ravenmore",
+                    "picture": null
+                },
+                "postDate": "2014-02-23 14:50",
+                "text": "<p>Thanks for all the nice comments :)</p>\n<p>&#160;</p>\n<p>Expanded the pack with Golden Icons:</p>\n<p><a href=\"http://opengameart.org/content/golden-items-rip-upgrade-pack\">http://opengameart.org/content/golden-items-rip-upgrade-pack</a></p>\n<p>(already included in this pack with the latest download .zip)</p>\n<p>An expansion suggested by the fine fellows at&#160;<a href=\"http://traptics.com/site/\">http://traptics.com/site/</a></p>\n<p>Hope it comes in handy!</p>\n<p>&#160;</p>\n<p>Also minor adjustments to previous icons, mostly cleanup.</p>\n"
+            },
+            {
+                "author": {
+                    "username": "angree",
+                    "name": "angree",
+                    "picture": null
+                },
+                "postDate": "2014-06-24 05:11",
+                "text": "<p>I needed to register here to tell you that are one of the most beautiful rpg icons I have ever seen!! Extraordinary.</p>\n"
+            },
+            {
+                "author": {
+                    "username": "angree",
+                    "name": "angree",
+                    "picture": null
+                },
+                "postDate": "2014-06-24 08:32",
+                "text": "<p>please leave your bitcoin address for volountary donations</p>\n"
+            },
+            {
+                "author": {
+                    "username": "ravenmore",
+                    "name": "Ravenmore",
+                    "picture": null
+                },
+                "postDate": "2015-03-06 09:34",
+                "text": "<p>No bitcoin support yet, but I do have a modest PayPal Donate button in the Resources section on my site: <a href=\"http://dycha.net/resources/\">http://dycha.net/resources/</a></p>\n<p>Thanks!</p>\n"
+            },
+            {
+                "author": {
+                    "username": "macgabhann",
+                    "name": "MacGabhann",
+                    "picture": null
+                },
+                "postDate": "2015-04-29 13:13",
+                "text": "<p>had to download a specal file downloader in order to get the entire file for some reason tryed for 3 days to download it but thanks to star downloader i was finaly able to get the whole file free of errors&#160;</p>\n"
+            },
+            {
+                "author": {
+                    "username": "inferno222",
+                    "name": "inferno222",
+                    "picture": null
+                },
+                "postDate": "2015-04-29 14:04",
+                "text": "<p>I lovee this.. its just perfect for my game&#160;</p>\n<p>plz share more :D</p>\n"
+            },
+            {
+                "author": {
+                    "username": "fsvieira",
+                    "name": "fsvieira",
+                    "picture": null
+                },
+                "postDate": "2016-01-14 07:09",
+                "text": "<p>Hi,</p>\n<p>I love your work, and I am using some (a lot) of your artwork on my new game:&#160;<a href=\"https://play.google.com/store/apps/details?id=com.fsvieira.consistency\">https://play.google.com/store/apps/details?id=com.fsvieira.consistency</a></p>\n<p>Credits are on the about section of the game.</p>\n<p>&#160;</p>\n<p>&#160;</p>\n<p>&#160;</p>\n"
+            },
+            {
+                "author": {
+                    "username": "madden",
+                    "name": "Madden",
+                    "picture": null
+                },
+                "postDate": "2016-05-30 18:14",
+                "text": "<p>Wow! Amazing Quality! Thank you!!</p>\n"
+            },
+            {
+                "author": {
+                    "username": "katarknight",
+                    "name": "katarknight",
+                    "picture": null
+                },
+                "postDate": "2016-07-20 21:01",
+                "text": "<p>Definitely one of the treasures in this site. Thank you!!!</p>\n"
+            },
+            {
+                "author": {
+                    "username": "jeffmitchell",
+                    "name": "jeff_mitchell",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-42343-1483402460.jpg?itok=bH1HrZSu"
+                },
+                "postDate": "2017-01-03 17:29",
+                "text": "<p>What program do you make these in?</p>\n"
+            },
+            {
+                "author": {
+                    "username": "ravenmore",
+                    "name": "Ravenmore",
+                    "picture": null
+                },
+                "postDate": "2017-01-07 14:33",
+                "text": "<p>Photoshop CC :)</p>\n"
+            },
+            {
+                "author": {
+                    "username": "medicinestorm",
+                    "name": "MedicineStorm",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-3656-1346970297.png?itok=a0pnbKu5"
+                },
+                "postDate": "2017-01-18 15:16",
+                "text": "<p>Needed a sealed envelope and a corresponding opened envelope for my game. Made a broken seal version of the envelope. Figured someone else might find it useful </p>\n<p>(all credit and attribution to Ravenmore)</p>\n"
+            },
+            {
+                "author": {
+                    "username": "mold",
+                    "name": "mold",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-12427-1528628556.png?itok=if0-zaYk"
+                },
+                "postDate": "2018-09-24 07:17",
+                "text": "<p>good idea</p>\n"
+            },
+            {
+                "author": {
+                    "username": "mold",
+                    "name": "mold",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-12427-1528628556.png?itok=if0-zaYk"
+                },
+                "postDate": "2018-09-24 07:19",
+                "text": "<p><img src=\"https://opengameart.org/sites/default/files/styles/medium/public/rmprev.png\" alt=\"\" width=\"250\" height=\"216\"/></p>\n<p><a href=\"https://opengameart.org/node/83169\">https://opengameart.org/node/83169</a></p>\n"
+            },
+            {
+                "author": {
+                    "username": "tomcoenen",
+                    "name": "TomCoenen",
+                    "picture": null
+                },
+                "postDate": "2017-06-27 02:04",
+                "text": "<p>Great graphics, I used them in <a title=\"WorldGrower\" href=\"https://github.com/WorldGrower/WorldGrower\">WorldGrower</a> and I credited you.</p>\n"
+            },
+            {
+                "author": {
+                    "username": "francodv",
+                    "name": "Franco.D.v",
+                    "picture": null
+                },
+                "postDate": "2018-12-26 15:15",
+                "text": "<p>Gracias por el aporte&#160;</p>\n"
+            }
         ]
     },
     {
@@ -2082,6 +3725,71 @@ export default
                 "alias": "zelda-like-rpg",
                 "name": "Zelda Like RPG"
             }
+        ],
+        "comments": [
+            {
+                "author": {
+                    "username": "glondo",
+                    "name": "Glondo",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-25214-1434956828.png?itok=gy6dxasr"
+                },
+                "postDate": "2015-07-17 16:09",
+                "text": "<p>Cool Tiles! The buildings have some nice comic-like look and feel.</p>\n"
+            },
+            {
+                "author": {
+                    "username": "wasd96040501",
+                    "name": "wasd96040501",
+                    "picture": null
+                },
+                "postDate": "2015-07-19 04:48",
+                "text": "<p>GOOD</p>\n"
+            },
+            {
+                "author": {
+                    "username": "prozi",
+                    "name": "prozi",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-9168-1378771877.png?itok=t4n0Tle2"
+                },
+                "postDate": "2015-07-26 18:17",
+                "text": "<p>Im using a slightly modified version here</p>\n<p><a href=\"http://chi-land.zapraszam.net/\">http://chi-land.zapraszam.net/</a></p>\n<p>thanks!</p>\n"
+            },
+            {
+                "author": {
+                    "username": "fmoliveira",
+                    "name": "fmoliveira",
+                    "picture": null
+                },
+                "postDate": "2016-06-12 19:19",
+                "text": "<p>Superb quality! Thanks a lot for sharing!</p>\n"
+            },
+            {
+                "author": {
+                    "username": "kagerato",
+                    "name": "kagerato",
+                    "picture": null
+                },
+                "postDate": "2016-07-18 14:06",
+                "text": "<p>Such precise detail is present in this.&#160; Great work, Hyptosis.</p>\n"
+            },
+            {
+                "author": {
+                    "username": "tzoop",
+                    "name": "Tzoop",
+                    "picture": null
+                },
+                "postDate": "2016-09-11 10:51",
+                "text": "<p>Thank you very much for this great tileset.</p>\n<p>I am using it with different colors here:</p>\n<p><a href=\"https://tzoop.itch.io/coghola\">https://tzoop.itch.io/coghola</a></p>\n"
+            },
+            {
+                "author": {
+                    "username": "hyptosis",
+                    "name": "Hyptosis",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-2937-1493468235.jpg?itok=zp5DaIyn"
+                },
+                "postDate": "2017-04-29 08:09",
+                "text": "<p>Very cool, thanks for sharing!</p>\n"
+            }
         ]
     },
     {
@@ -2137,6 +3845,62 @@ export default
             {
                 "alias": "ancientbeast",
                 "name": "AncientBeast"
+            }
+        ],
+        "comments": [
+            {
+                "author": {
+                    "username": "bonsaiheldin",
+                    "name": "Bonsaiheldin",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-4779-1528460971.png?itok=dh2x4Tiz"
+                },
+                "postDate": "2019-03-14 08:00",
+                "text": "<p>Imagine this thing leaning over your head when you wake up in the morning. Ugh! (That means it looks horrifying, so good)</p>\n"
+            },
+            {
+                "author": {
+                    "username": "kameleon",
+                    "name": "Kameleon",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-64730-1552573462.jpg?itok=AD8Y5gE2"
+                },
+                "postDate": "2019-03-14 10:05",
+                "text": "<p>I love it! It looks like its in pain all the time xD</p>\n"
+            },
+            {
+                "author": {
+                    "username": "dicocco",
+                    "name": "DiCocco",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-64727-1552565364.png?itok=rZq5kNMR"
+                },
+                "postDate": "2019-03-14 10:13",
+                "text": "<p>Thank you so much for the fav, Kameleon! :)&#160;</p>\n"
+            },
+            {
+                "author": {
+                    "username": "dread-knight",
+                    "name": "Dread Knight",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-893-1311394870.jpg?itok=9oajEFHi"
+                },
+                "postDate": "2019-03-14 12:15",
+                "text": "<p>Pretty cool!</p>\n"
+            },
+            {
+                "author": {
+                    "username": "bonsaiheldin",
+                    "name": "Bonsaiheldin",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-4779-1528460971.png?itok=dh2x4Tiz"
+                },
+                "postDate": "2019-03-15 03:04",
+                "text": "<p><a class=\"username\" title=\"View user profile.\" lang=\"\" href=\"https://opengameart.org/users/kameleon\" xml:lang=\"\">Kameleon</a>: I'll be more than happy to release it from its pain. I'm sure an axe or a fireball spell will help. :)</p>\n"
+            },
+            {
+                "author": {
+                    "username": "snabisch",
+                    "name": "Snabisch",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-17061-1410165851.png?itok=o_AmTWaE"
+                },
+                "postDate": "2019-03-16 04:35",
+                "text": "<p>The upside is it's great. The negative.... is that it's also great.</p>\n"
             }
         ]
     },
@@ -2265,6 +4029,53 @@ export default
                 "alias": "zelda-like-rpg",
                 "name": "Zelda Like RPG"
             }
+        ],
+        "comments": [
+            {
+                "author": {
+                    "username": "jorge-avila",
+                    "name": "Jorge Avila",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-783-1435811422.jpg?itok=NLqjO0FH"
+                },
+                "postDate": "2010-12-15 20:54",
+                "text": "<p>=O, good work! I want to learn to do something like this.</p>\n"
+            },
+            {
+                "author": {
+                    "username": "kheftel",
+                    "name": "kheftel",
+                    "picture": null
+                },
+                "postDate": "2013-09-10 22:14",
+                "text": "<p>These are great! Unforunately, I don't think I can use them in my iPhone game, since they are CC-BY-SA. &#160;Great work!</p>\n"
+            },
+            {
+                "author": {
+                    "username": "bart",
+                    "name": "bart",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-1-1396211122.png?itok=OYs-JOzP"
+                },
+                "postDate": "2013-09-10 22:18",
+                "text": "<p>I own the copyright for these, since I commissioned them for OGA.</p>\n<p>If you agree to upload any modifications you make to this set back to OGA (as well as credit us in your game), you have my permission to use them.</p>\n<p>(Note that I'm simply granting a specific person an additional permission; nothing I have said here revokes or alters the permissions already granted by the licenses.)</p>\n"
+            },
+            {
+                "author": {
+                    "username": "kheftel",
+                    "name": "kheftel",
+                    "picture": null
+                },
+                "postDate": "2013-09-10 22:40",
+                "text": "<p>Thanks bart!! If I use them, and/or modify them, I will definitely credit the site, and reupload any modifications!</p>\n"
+            },
+            {
+                "author": {
+                    "username": "tiskolin",
+                    "name": "Tiskolin",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-55015-1522539605.png?itok=5MHn--zA"
+                },
+                "postDate": "2018-04-11 01:04",
+                "text": "<p>Wow! =O That is amazing!!</p>\n<p>You should add some more preview images though. Just sayin'.</p>\n"
+            }
         ]
     },
     {
@@ -2343,7 +4154,27 @@ export default
                 "name": "OGA-BY 3.0"
             }
         ],
-        "collections": []
+        "collections": [],
+        "comments": [
+            {
+                "author": {
+                    "username": "snabisch",
+                    "name": "Snabisch",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-17061-1410165851.png?itok=o_AmTWaE"
+                },
+                "postDate": "2019-02-22 15:22",
+                "text": "<p>They're great.</p>\n"
+            },
+            {
+                "author": {
+                    "username": "looneybits",
+                    "name": "looneybits",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-20929-1437118708.png?itok=bKYfbTlg"
+                },
+                "postDate": "2019-02-25 12:58",
+                "text": "<p>That's awesome !!</p>\n"
+            }
+        ]
     },
     {
         "alias": "guacato",
@@ -2406,7 +4237,27 @@ export default
                 "name": "CC-BY 4.0"
             }
         ],
-        "collections": []
+        "collections": [],
+        "comments": [
+            {
+                "author": {
+                    "username": "snabisch",
+                    "name": "Snabisch",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-17061-1410165851.png?itok=o_AmTWaE"
+                },
+                "postDate": "2019-03-15 05:11",
+                "text": "<p>Sympathetic design</p>\n"
+            },
+            {
+                "author": {
+                    "username": "megupets",
+                    "name": "megupets",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-12594-1552678829.jpg?itok=PC_LxFXz"
+                },
+                "postDate": "2019-03-15 15:38",
+                "text": "<p>Hey Snabisch! Thank you so much! &lt;3</p>\n"
+            }
+        ]
     },
     {
         "alias": "orchestral-music-pack-1",
@@ -2455,7 +4306,36 @@ export default
                 "name": "CC-BY-SA 4.0"
             }
         ],
-        "collections": []
+        "collections": [],
+        "comments": [
+            {
+                "author": {
+                    "username": "elkdarkshire",
+                    "name": "ElkDarkshire",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-22698-1542969914.gif?itok=Scu9jztN"
+                },
+                "postDate": "2019-03-15 02:09",
+                "text": "<p>a bit out of sync</p>\n"
+            },
+            {
+                "author": {
+                    "username": "snabisch",
+                    "name": "Snabisch",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-17061-1410165851.png?itok=o_AmTWaE"
+                },
+                "postDate": "2019-03-15 05:09",
+                "text": "<p>They're gorgeous.</p>\n"
+            },
+            {
+                "author": {
+                    "username": "tad",
+                    "name": "TAD",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-57568-1532418688.png?itok=9gY3YObv"
+                },
+                "postDate": "2019-03-15 14:58",
+                "text": "<p>I like the third music :)</p>\n"
+            }
+        ]
     },
     {
         "alias": "swords-set-1-0",
@@ -2502,6 +4382,26 @@ export default
             {
                 "alias": "legends-0",
                 "name": "legends"
+            }
+        ],
+        "comments": [
+            {
+                "author": {
+                    "username": "snabisch",
+                    "name": "Snabisch",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-17061-1410165851.png?itok=o_AmTWaE"
+                },
+                "postDate": "2019-03-15 05:08",
+                "text": "<p>Great job.</p>\n"
+            },
+            {
+                "author": {
+                    "username": "knik1985",
+                    "name": "knik1985",
+                    "picture": null
+                },
+                "postDate": "2019-03-15 10:10",
+                "text": "<p>Awesome!</p>\n"
             }
         ]
     },
@@ -2559,6 +4459,53 @@ export default
             {
                 "alias": "smugglers",
                 "name": "Smugglers"
+            }
+        ],
+        "comments": [
+            {
+                "author": {
+                    "username": "drummyfish",
+                    "name": "drummyfish",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-55990-1527187035.png?itok=HBRLQ0NB"
+                },
+                "postDate": "2019-03-11 01:32",
+                "text": "<p>So many ships, beautiful! Are they procedurally generated?</p>\n<p>&#160;</p>\n<p>EDIT: Oh, I overlooked the program in the desciption. Great work, thanks for sharing :)</p>\n"
+            },
+            {
+                "author": {
+                    "username": "starnightchiang",
+                    "name": "starnight.chiang",
+                    "picture": null
+                },
+                "postDate": "2019-03-11 11:22",
+                "text": "<p>Beautiful!!</p>\n"
+            },
+            {
+                "author": {
+                    "username": "bonsaiheldin",
+                    "name": "Bonsaiheldin",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-4779-1528460971.png?itok=dh2x4Tiz"
+                },
+                "postDate": "2019-03-12 16:45",
+                "text": "<p>Nice ships and generator. Looking forward to further development.</p>\n"
+            },
+            {
+                "author": {
+                    "username": "bomt",
+                    "name": "bomt",
+                    "picture": null
+                },
+                "postDate": "2019-03-13 00:44",
+                "text": "<p>Look like you change color from Kenney-Spaceship part!</p>\n"
+            },
+            {
+                "author": {
+                    "username": "wisedawn",
+                    "name": "Wisedawn",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-64330-1552254799.jpg?itok=lF5OJ-0y"
+                },
+                "postDate": "2019-03-13 01:43",
+                "text": "<p>Yes, Vesselforge uses Kenney's Spaceship parts! They are acknowledged within the application. Everything is CC0. The tool has several random settings; sometimes the tool will use Kenney's default color schemes.</p>\n"
             }
         ]
     },
@@ -2660,6 +4607,26 @@ export default
             {
                 "alias": "lpc-game-assets",
                 "name": "LPC Game assets"
+            }
+        ],
+        "comments": [
+            {
+                "author": {
+                    "username": "snabisch",
+                    "name": "Snabisch",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-17061-1410165851.png?itok=o_AmTWaE"
+                },
+                "postDate": "2019-02-26 11:11",
+                "text": "<p>It's great.</p>\n"
+            },
+            {
+                "author": {
+                    "username": "looneybits",
+                    "name": "looneybits",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-20929-1437118708.png?itok=bKYfbTlg"
+                },
+                "postDate": "2019-02-28 02:06",
+                "text": "<p>Amazing !!</p>\n"
             }
         ]
     }

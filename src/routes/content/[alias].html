@@ -71,11 +71,28 @@
 	</section>
 </div>
 
+<h2>Comments</h2>
+
+{#each content.comments as comment}
+	<section class="comment">
+		<div class="user-info">
+			<img src={comment.author.picture} alt="{comment.author.name}'s picture">
+			<span class="name"><a href="users/{comment.author.username}">{comment.author.name}</a></span>
+			<span class="date">{comment.postDate}</span>
+		</div>
+		<div class="comment-text">
+			{@html comment.text}
+		</div>
+	</section>
+{/each}
+
 <style>
 	.container {
 		display: flex;
 		flex-wrap: wrap;
 		justify-content: center;
+
+		margin-bottom: 0.5em;
 	}
 
 	.container aside {
@@ -199,6 +216,40 @@
 		font-size: 0.6em;
 	}
 
+	.comment {
+		display: flex;
+		margin-bottom: 0.2em;
+	}
+
+	.comment-text {
+		padding: 4px;
+	}
+
+	.comment :global(img) {
+		max-width: 100%;
+	}
+
+	.comment .user-info {
+		padding: 4px;
+		background-color: rgba(0,0, 0, 0.1);
+		width: 10%;
+		flex-shrink: 0;
+		min-width: 90px;
+	}
+
+	.comment .user-info .date {
+		font-size: 0.9em;
+	}
+
+	.comment:nth-child(2n) {
+		background-color: rgba(0,0, 0, 0.1);
+	}
+
+	.user-info .name {
+		display: block;
+		font-size: 1.2em;
+		font-weight: bold;
+	}
 </style>
 
 <script>
