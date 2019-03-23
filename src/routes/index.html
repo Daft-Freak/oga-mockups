@@ -10,6 +10,13 @@
 	{/each}
 </section>
 
+<h2>Latest Art<a href="latest" class="more">(View More)</a></h2>
+<section class="gallery">
+	{#each latest as item}
+		<ArtTile {item} {audioPlayer}/>
+	{/each}
+</section>
+
 <h2>
 	Popular
 	<a class="toggle" class:selected="popularPeriod == 'week'" on:click="set({popularPeriod: 'week'})">This Week</a>
@@ -29,12 +36,6 @@
 	{/each}
 </section>
 
-<h2>Latest Art<a href="latest" class="more">(View More)</a></h2>
-<section class="gallery">
-	{#each latest as item}
-		<ArtTile {item} {audioPlayer}/>
-	{/each}
-</section>
 
 <!--hardcoded news item-->
 <section class="news">
