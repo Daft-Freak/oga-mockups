@@ -10,9 +10,14 @@
 	{/each}
 </section>
 
-<h2>Popular This Week <a href="popular" class="more">(View More)</a></h2>
+<h2>
+	Popular
+	<a class="toggle" class:selected="popularPeriod == 'week'" on:click="set({popularPeriod: 'week'})">This Week</a>
+	<a class="toggle" class:selected="popularPeriod == 'month'" on:click="set({popularPeriod: 'month'})">This Month</a>
+	<a href="popular" class="more">(View More)</a>
+</h2>
 <section class="gallery">
-	{#each popularThisWeek as item}
+	{#each popular as item}
 		<ArtTile {item} {audioPlayer}/>
 	{/each}
 </section>
@@ -49,6 +54,19 @@
 <style>
 	.more {
 		float: right;
+	}
+
+	.toggle {
+		color: white;
+		background: #3b5170;
+		cursor: pointer;
+
+		padding: 0.2em;
+	}
+
+	.toggle.selected,
+	.toggle:hover {
+		background: #243244;
 	}
 
 	.gallery {
@@ -99,8 +117,13 @@
 		},
 		data() {
 			return {
-				audioPlayer: new AudioPlayer()
+				audioPlayer: new AudioPlayer(),
+				popularPeriod: "week"
 			};
+		},
+
+		computed: {
+			popular: ({popularPeriod, popularThisWeek, popularThisMonth}) => popularPeriod == "week" ? popularThisWeek : popularThisMonth.slice(0, 8)
 		},
 		preload({ params, query }) {
 			return this.fetch(`home.json`).then(r => r.json()).then(data => {
