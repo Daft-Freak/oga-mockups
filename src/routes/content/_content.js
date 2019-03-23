@@ -2551,6 +2551,146 @@ export default
         ]
     },
     {
+        "alias": "site-design-light-and-dark",
+        "name": "Site design: Light and Dark",
+        "author": {
+            "name": "Daft-Freak",
+            "username": "daft-freak",
+            "picture": "https://opengameart.org/sites/default/files/styles/thumbnail/public/pictures/picture-64866-1552997314.png?itok=EB0OJG9l"
+        },
+        "previews": [
+            {
+                "images": {
+                    "medium": "https://opengameart.org/sites/default/files/styles/medium/public/preview%20user%20light_1.jpg"
+                },
+                "audio": null
+            },
+            {
+                "images": {
+                    "medium": "https://opengameart.org/sites/default/files/styles/medium/public/preview%20user%20dark_1.jpg"
+                },
+                "audio": null
+            },
+            {
+                "images": {
+                    "medium": "https://opengameart.org/sites/default/files/styles/medium/public/preview%20artwork%20light_1.png"
+                },
+                "audio": null
+            },
+            {
+                "images": {
+                    "medium": "https://opengameart.org/sites/default/files/styles/medium/public/preview%20artwork%20dark_0.png"
+                },
+                "audio": null
+            }
+        ],
+        "description": "<p><a href=\"https://frozen-harbor-40210.herokuapp.com/\">https://frozen-harbor-40210.herokuapp.com/</a></p>\n<p>Saw the challenge, needed an excuse to write some CSS...</p>\n<p>Some notes:</p>\n<p> - The home page is a bit unfinished looking, mainly happy with how the user/art pages turned out.</p>\n<p> - The demo seems to work in all the browsers (surprisingly)</p>\n<p> - Yes, the background isn't blue</p>\n<p> - The downloads have all images removed to avoid any licence issues</p>\n<p> - I can upload the code somewhere if anyone wants to play around with this</p>\n<p> - (unrelated) The submit art page really needs a '&lt;input type=\"file\" multiple&gt;' on it</p>\n<p> </p>\n",
+        "attribution": null,
+        "files": [
+            {
+                "name": "artwork light.png",
+                "size": "169.4 Kb",
+                "url": "https://opengameart.org/sites/default/files/artwork%20light_0.png",
+                "dlCount": "14"
+            },
+            {
+                "name": "artwork light mobile.png",
+                "size": "126.9 Kb",
+                "url": "https://opengameart.org/sites/default/files/artwork%20light%20mobile_0.png",
+                "dlCount": "8"
+            },
+            {
+                "name": "artwork dark.png",
+                "size": "169.8 Kb",
+                "url": "https://opengameart.org/sites/default/files/artwork%20dark_0.png",
+                "dlCount": "10"
+            },
+            {
+                "name": "artwork dark mobile.png",
+                "size": "127.1 Kb",
+                "url": "https://opengameart.org/sites/default/files/artwork%20dark%20mobile_0.png",
+                "dlCount": "6"
+            },
+            {
+                "name": "user light.png",
+                "size": "65.1 Kb",
+                "url": "https://opengameart.org/sites/default/files/user%20light_0.png",
+                "dlCount": "9"
+            },
+            {
+                "name": "user light mobile.png",
+                "size": "45.1 Kb",
+                "url": "https://opengameart.org/sites/default/files/user%20light%20mobile_0.png",
+                "dlCount": "8"
+            },
+            {
+                "name": "user dark.png",
+                "size": "64 Kb",
+                "url": "https://opengameart.org/sites/default/files/user%20dark.png",
+                "dlCount": "8"
+            },
+            {
+                "name": "user dark mobile.png",
+                "size": "43.6 Kb",
+                "url": "https://opengameart.org/sites/default/files/user%20dark%20mobile.png",
+                "dlCount": "7"
+            }
+        ],
+        "postDate": "Monday, March 18, 2019 - 13:28",
+        "tags": [
+            "challenge",
+            "A New Look",
+            "Web Design",
+            "css"
+        ],
+        "licences": [
+            {
+                "url": "https://creativecommons.org/licenses/by/4.0/",
+                "img": "https://opengameart.org/sites/default/files/license_images/cc-by_0.png",
+                "name": "CC-BY 4.0"
+            }
+        ],
+        "collections": [],
+        "comments": [
+            {
+                "author": {
+                    "username": "boom-shaka",
+                    "name": "Boom Shaka",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-22415-1427963804.png?itok=O3RsuWhC"
+                },
+                "postDate": "2019-03-18 20:15",
+                "text": "<p>Very functional design</p>\n<p>Artists' pages look really good</p>\n<p> </p>\n<p>\"Featured\" art thumbs on home page seem a little big...they could probably be the same size as the \"popular\" and \"latest\" thumbs. </p>\n<p> </p>\n<p>In terms of the layout, I'm mostly interested in the new art and collections.  \"Featured\" art is nice, but it seems like a random assortment of older work, so it's usually a little lower on my priority list (that's just my opinion....others may disagree). </p>\n<p>Only other suggestion would be to move the download link(s) up above the preview section on the content pages - some artists submit lengthly previews and you have to scroll down a bit to get to the actual files (just a pet peeve of mine, not a big deal).</p>\n"
+            },
+            {
+                "author": {
+                    "username": "fral-kritic",
+                    "name": "Fral Kritic",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-64359-1551590076.png?itok=zVAtdsRp"
+                },
+                "postDate": "2019-03-18 22:27",
+                "text": "<p>I really loooove this, and I think if this design is selected, it default to white and have a choice to change black, cause I turn everything that allows me to, to black; from software to web apps.</p>\n<p>I also like how the post information is organized! Brilliant work! :D</p>\n"
+            },
+            {
+                "author": {
+                    "username": "daft-freak",
+                    "name": "Daft-Freak",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-64866-1552997314.png?itok=A-EOVGv_"
+                },
+                "postDate": "2019-03-19 11:30",
+                "text": "<p>Forgot to mention: <a href=\"https://frozen-harbor-40210.herokuapp.com/?dark\">https://frozen-harbor-40210.herokuapp.com/?dark</a> for the dark theme. Also, all the previews/downloads are at 2x DPI scale.</p>\n"
+            },
+            {
+                "author": {
+                    "username": "fral-kritic",
+                    "name": "Fral Kritic",
+                    "picture": "https://opengameart.org/sites/default/files/styles/icon_48x48/public/pictures/picture-64359-1551590076.png?itok=zVAtdsRp"
+                },
+                "postDate": "2019-03-19 22:17",
+                "text": "<p>@Daft-Freak I love this! I like the live site! Keep up the hard work! :)</p>\n"
+            }
+        ]
+    },
+    {
         "alias": "4-colour-overworld-tileset",
         "name": "4 Colour Overworld Tileset",
         "author": {
