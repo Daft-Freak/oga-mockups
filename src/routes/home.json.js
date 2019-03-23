@@ -251,6 +251,258 @@ export function get(req, res) {
 				}
 			}
 		],
+		"popularCollections": [
+			{
+				"alias": "epic-fantasy-music",
+				"name": "Epic fantasy music",
+				"author": {
+					"name": "Nehmulos",
+					"username": "nehmulos"
+				},
+				"artImages": [
+					{
+						"thumbnail": "https://opengameart.org/sites/default/files/styles/thumbnail/public/audio_preview/Heroic%20Demise%20%28New%29.mp3.png",
+						"medium": "https://opengameart.org/sites/default/files/styles/medium/public/audio_preview/Heroic%20Demise%20%28New%29.mp3.png",
+						"large": "https://opengameart.org/sites/default/files/styles/large/public/audio_preview/Heroic%20Demise%20%28New%29.mp3.png"
+					},
+					{
+						"thumbnail": "https://opengameart.org/sites/default/files/styles/thumbnail/public/audio_preview/Soliloquy_0.mp3.png",
+						"medium": "https://opengameart.org/sites/default/files/styles/medium/public/audio_preview/Soliloquy_0.mp3.png",
+						"large": "https://opengameart.org/sites/default/files/styles/large/public/audio_preview/Soliloquy_0.mp3.png"
+					},
+					{
+						"thumbnail": "https://opengameart.org/sites/default/files/styles/thumbnail/public/audio_preview/The%20Dark%20Amulet.mp3.png",
+						"medium": "https://opengameart.org/sites/default/files/styles/medium/public/audio_preview/The%20Dark%20Amulet.mp3.png",
+						"large": "https://opengameart.org/sites/default/files/styles/large/public/audio_preview/The%20Dark%20Amulet.mp3.png"
+					}
+				]
+			},
+			{
+				"alias": "oga-16x16-jrpg-sprites-tiles",
+				"name": "OGA 16x16 JRPG Sprites & Tiles",
+				"author": {
+					"name": "bart",
+					"username": "bart"
+				},
+				"artImages": [
+					{
+						"thumbnail": "https://opengameart.org/sites/default/files/styles/thumbnail/public/town_tiles_preview.png",
+						"medium": "https://opengameart.org/sites/default/files/styles/medium/public/town_tiles_preview.png",
+						"large": "https://opengameart.org/sites/default/files/styles/large/public/town_tiles_preview.png"
+					},
+					{
+						"thumbnail": "https://opengameart.org/sites/default/files/styles/thumbnail/public/forest_tiles_preview.png",
+						"medium": "https://opengameart.org/sites/default/files/styles/medium/public/forest_tiles_preview.png",
+						"large": "https://opengameart.org/sites/default/files/styles/large/public/forest_tiles_preview.png"
+					},
+					{
+						"thumbnail": "https://opengameart.org/sites/default/files/styles/thumbnail/public/tiny-castle-example.png",
+						"medium": "https://opengameart.org/sites/default/files/styles/medium/public/tiny-castle-example.png",
+						"large": "https://opengameart.org/sites/default/files/styles/large/public/tiny-castle-example.png"
+					}
+				]
+			},
+			{
+				"alias": "liberated-pixel-cup-0",
+				"name": "Liberated Pixel Cup",
+				"author": {
+					"name": "pennomi",
+					"username": "pennomi"
+				},
+				"artImages": [
+					{
+						"thumbnail": "https://opengameart.org/sites/default/files/styles/thumbnail/public/house7_0.gif",
+						"medium": "https://opengameart.org/sites/default/files/styles/medium/public/house7_0.gif",
+						"large": "https://opengameart.org/sites/default/files/styles/large/public/house7_0.gif"
+					},
+					{
+						"thumbnail": "https://opengameart.org/sites/default/files/styles/thumbnail/public/terrain_3.png",
+						"medium": "https://opengameart.org/sites/default/files/styles/medium/public/terrain_3.png",
+						"large": "https://opengameart.org/sites/default/files/styles/large/public/terrain_3.png"
+					},
+					{
+						"thumbnail": "https://opengameart.org/sites/default/files/styles/thumbnail/public/tileset_preview.png",
+						"medium": "https://opengameart.org/sites/default/files/styles/medium/public/tileset_preview.png",
+						"large": "https://opengameart.org/sites/default/files/styles/large/public/tileset_preview.png"
+					}
+				]
+			},
+			{
+				"alias": "space-game-starter-set",
+				"name": "Space Game Starter Set",
+				"author": {
+					"name": "hc",
+					"username": "hc"
+				},
+				"artImages": [
+					{
+						"thumbnail": "https://opengameart.org/sites/default/files/styles/thumbnail/public/exp2_0.jpg",
+						"medium": "https://opengameart.org/sites/default/files/styles/medium/public/exp2_0.jpg",
+						"large": "https://opengameart.org/sites/default/files/styles/large/public/exp2_0.jpg"
+					},
+					{
+						"thumbnail": "https://opengameart.org/sites/default/files/styles/thumbnail/public/audio_preview/r.mp3.png",
+						"medium": "https://opengameart.org/sites/default/files/styles/medium/public/audio_preview/r.mp3.png",
+						"large": "https://opengameart.org/sites/default/files/styles/large/public/audio_preview/r.mp3.png"
+					},
+					{
+						"thumbnail": "https://opengameart.org/sites/default/files/styles/thumbnail/public/audio_preview/explosion_somewhere_far.mp3.png",
+						"medium": "https://opengameart.org/sites/default/files/styles/medium/public/audio_preview/explosion_somewhere_far.mp3.png",
+						"large": "https://opengameart.org/sites/default/files/styles/large/public/audio_preview/explosion_somewhere_far.mp3.png"
+					}
+				]
+			},
+			{
+				"alias": "platformersidescroller-tiles-and-backgrounds",
+				"name": "Platformer/Sidescroller Tiles and Backgrounds",
+				"author": {
+					"name": "Redshrike",
+					"username": "redshrike"
+				},
+				"artImages": [
+					{
+						"thumbnail": "https://opengameart.org/sites/default/files/styles/thumbnail/public/rockwalledges.png",
+						"medium": "https://opengameart.org/sites/default/files/styles/medium/public/rockwalledges.png",
+						"large": "https://opengameart.org/sites/default/files/styles/large/public/rockwalledges.png"
+					},
+					{
+						"thumbnail": "https://opengameart.org/sites/default/files/styles/thumbnail/public/preview_19.png",
+						"medium": "https://opengameart.org/sites/default/files/styles/medium/public/preview_19.png",
+						"large": "https://opengameart.org/sites/default/files/styles/large/public/preview_19.png"
+					},
+					{
+						"thumbnail": "https://opengameart.org/sites/default/files/styles/thumbnail/public/roof_tiles_0.gif",
+						"medium": "https://opengameart.org/sites/default/files/styles/medium/public/roof_tiles_0.gif",
+						"large": "https://opengameart.org/sites/default/files/styles/large/public/roof_tiles_0.gif"
+					}
+				]
+			},
+			{
+				"alias": "sideview-pixel-art-rpg-enemy-sprites",
+				"name": "Sideview pixel art RPG enemy sprites",
+				"author": {
+					"name": "Redshrike",
+					"username": "redshrike"
+				},
+				"artImages": [
+					{
+						"thumbnail": "https://opengameart.org/sites/default/files/styles/thumbnail/public/rpgpreview.png",
+						"medium": "https://opengameart.org/sites/default/files/styles/medium/public/rpgpreview.png",
+						"large": "https://opengameart.org/sites/default/files/styles/large/public/rpgpreview.png"
+					},
+					{
+						"thumbnail": "https://opengameart.org/sites/default/files/styles/thumbnail/public/leocephas6.png",
+						"medium": "https://opengameart.org/sites/default/files/styles/medium/public/leocephas6.png",
+						"large": "https://opengameart.org/sites/default/files/styles/large/public/leocephas6.png"
+					},
+					{
+						"thumbnail": "https://opengameart.org/sites/default/files/styles/thumbnail/public/8goblins.png",
+						"medium": "https://opengameart.org/sites/default/files/styles/medium/public/8goblins.png",
+						"large": "https://opengameart.org/sites/default/files/styles/large/public/8goblins.png"
+					}
+				]
+			},
+			{
+				"alias": "user-interface",
+				"name": "User Interface",
+				"author": {
+					"name": "CruzR",
+					"username": "cruzr"
+				},
+				"artImages": [
+					{
+						"thumbnail": "https://opengameart.org/sites/default/files/styles/thumbnail/public/640x480_preview_0.jpg",
+						"medium": "https://opengameart.org/sites/default/files/styles/medium/public/640x480_preview_0.jpg",
+						"large": "https://opengameart.org/sites/default/files/styles/large/public/640x480_preview_0.jpg"
+					},
+					{
+						"thumbnail": "https://opengameart.org/sites/default/files/styles/thumbnail/public/demo.jpg",
+						"medium": "https://opengameart.org/sites/default/files/styles/medium/public/demo.jpg",
+						"large": "https://opengameart.org/sites/default/files/styles/large/public/demo.jpg"
+					},
+					{
+						"thumbnail": "https://opengameart.org/sites/default/files/styles/thumbnail/public/preview_6.jpg",
+						"medium": "https://opengameart.org/sites/default/files/styles/medium/public/preview_6.jpg",
+						"large": "https://opengameart.org/sites/default/files/styles/large/public/preview_6.jpg"
+					}
+				]
+			},
+			{
+				"alias": "platformersidescroller-characters-and-enemies",
+				"name": "Platformer/Sidescroller Characters and Enemies",
+				"author": {
+					"name": "Redshrike",
+					"username": "redshrike"
+				},
+				"artImages": [
+					{
+						"thumbnail": "https://opengameart.org/sites/default/files/styles/thumbnail/public/saraprev.PNG",
+						"medium": "https://opengameart.org/sites/default/files/styles/medium/public/saraprev.PNG",
+						"large": "https://opengameart.org/sites/default/files/styles/large/public/saraprev.PNG"
+					},
+					{
+						"thumbnail": "https://opengameart.org/sites/default/files/styles/thumbnail/public/robotidle.gif",
+						"medium": "https://opengameart.org/sites/default/files/styles/medium/public/robotidle.gif",
+						"large": "https://opengameart.org/sites/default/files/styles/large/public/robotidle.gif"
+					},
+					{
+						"thumbnail": "https://opengameart.org/sites/default/files/styles/thumbnail/public/v6rx6.gif",
+						"medium": "https://opengameart.org/sites/default/files/styles/medium/public/v6rx6.gif",
+						"large": "https://opengameart.org/sites/default/files/styles/large/public/v6rx6.gif"
+					}
+				]
+			},
+			{
+				"alias": "complete-art-kits",
+				"name": "Complete art kits",
+				"author": {
+					"name": "cemkalyoncu",
+					"username": "cemkalyoncu"
+				},
+				"artImages": [
+					{
+						"thumbnail": "https://opengameart.org/sites/default/files/styles/thumbnail/public/fantasy-tileset_0.png",
+						"medium": "https://opengameart.org/sites/default/files/styles/medium/public/fantasy-tileset_0.png",
+						"large": "https://opengameart.org/sites/default/files/styles/large/public/fantasy-tileset_0.png"
+					},
+					{
+						"thumbnail": "https://opengameart.org/sites/default/files/styles/thumbnail/public/sample.jpg",
+						"medium": "https://opengameart.org/sites/default/files/styles/medium/public/sample.jpg",
+						"large": "https://opengameart.org/sites/default/files/styles/large/public/sample.jpg"
+					},
+					{
+						"thumbnail": "https://opengameart.org/sites/default/files/styles/thumbnail/public/nicecans.png",
+						"medium": "https://opengameart.org/sites/default/files/styles/medium/public/nicecans.png",
+						"large": "https://opengameart.org/sites/default/files/styles/large/public/nicecans.png"
+					}
+				]
+			},
+			{
+				"alias": "painterly-spell-icons",
+				"name": "Painterly Spell Icons",
+				"author": {
+					"name": "bart",
+					"username": "bart"
+				},
+				"artImages": [
+					{
+						"thumbnail": "https://opengameart.org/sites/default/files/styles/thumbnail/public/header1.jpg",
+						"medium": "https://opengameart.org/sites/default/files/styles/medium/public/header1.jpg",
+						"large": "https://opengameart.org/sites/default/files/styles/large/public/header1.jpg"
+					},
+					{
+						"thumbnail": "https://opengameart.org/sites/default/files/styles/thumbnail/public/header2.jpg",
+						"medium": "https://opengameart.org/sites/default/files/styles/medium/public/header2.jpg",
+						"large": "https://opengameart.org/sites/default/files/styles/large/public/header2.jpg"
+					},
+					{
+						"thumbnail": "https://opengameart.org/sites/default/files/styles/thumbnail/public/header3.jpg",
+						"medium": "https://opengameart.org/sites/default/files/styles/medium/public/header3.jpg",
+						"large": "https://opengameart.org/sites/default/files/styles/large/public/header3.jpg"
+					}
+				]
+			}
+		],
 		"latest": [
 			{
 				"name": "Mini-roguelike Pixel Monsters, Icons, Dungeon stuff",

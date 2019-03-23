@@ -1,7 +1,13 @@
 <figure class="{size}">
 	<a class="{size}" href="content/{item.alias}">
 		<div class="square-pad">
-			<img alt="Preview" src="{item.images[size]}">
+			{#if collection}
+				{#each item.artImages as img}
+					<img class="collection" alt="Preview" src="{img[size]}">
+				{/each}
+			{:else}
+				<img alt="Preview" src="{item.images[size]}">
+			{/if}
 		</div>
 	</a>
 	{#if item.audio}
@@ -53,13 +59,37 @@
 	}
 
 	.square-pad > img {
-		position:absolute;
+		position: absolute;
 		top: 0;
 		left: 0;
 		bottom: 0;
 		right: 0;
 		width: 100%;
 		margin: auto;
+	}
+
+	.square-pad > img.collection {
+		width: 70%;
+		top: 15%;
+		bottom: 15%;
+		left: 15%;
+		right: 15%;
+	}
+
+	.square-pad > img.collection:first-child {
+		top: 0;
+		left: 0;
+
+		bottom: 30%;
+		right: 30%;
+	}
+
+	.square-pad > img.collection:last-child {
+		top: 30%;
+		left: 30%;
+
+		bottom: 0;
+		right: 0;
 	}
 
 	figcaption {
@@ -132,6 +162,7 @@
 			return {
 				size: "medium",
 				showAuthor: true,
+				collection: false,
 				audioPlayer: new AudioPlayer(),
 				audio: null,
 				audioPlaying: false,
