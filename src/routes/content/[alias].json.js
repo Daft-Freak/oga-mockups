@@ -1,7 +1,12 @@
 import content from './_content.js';
+import collections from './_collections.js';
 
 const lookup = new Map();
 content.forEach(post => {
+	lookup.set(post.alias, JSON.stringify(post));
+});
+
+collections.forEach(post => {
 	lookup.set(post.alias, JSON.stringify(post));
 });
 

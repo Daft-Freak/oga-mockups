@@ -4,6 +4,7 @@
 
 <h1>{content.name}</h1>
 
+<!-- this is a little messy due to treating art/collections as the same thing -->
 <div class="container">
 	<aside>
 		<div class="user-info">
@@ -15,42 +16,69 @@
 		<span class="label">Posted:</span>
 		{content.postDate}
 
-		<span class="label">Tags:</span>
-		<ul class="tags">
-			{#each content.tags as tag}
-				<li>{tag}</li>
-			{/each}
-		</ul>
-		<span class="label">Licenses:</span>
-		<ul class="licences">
-			{#each content.licences as licence}
-				<li>
-					<a href={licence.url}>
-						<img src={licence.img} alt={licence.name}>
-						<span>{licence.name}</span>
-					</a>
-				</li>
-			{/each}
-		</ul>
+		{#if content.tags}
+			<span class="label">Tags:</span>
+			<ul class="tags">
+				{#each content.tags as tag}
+					<li>{tag}</li>
+				{/each}
+			</ul>
+		{/if}
 
-		<span class="label">Collections:</span>
-		<ul class="collections">
-			{#each content.collections as collection}
-				<li>
-					<a href="content/{collection.alias}">
-						{collection.name}
-					</a>
-				</li>
-			{/each}
-		</ul>
+		{#if content.licences}
+			<span class="label">Licenses:</span>
+			<ul class="licences">
+				{#each content.licences as licence}
+					<li>
+						<a href={licence.url}>
+							<img src={licence.img} alt={licence.name}>
+							<span>{licence.name}</span>
+						</a>
+					</li>
+				{/each}
+			</ul>
+		{/if}
+
+		{#if content.collections}
+			<span class="label">Collections:</span>
+			<ul class="collections">
+				{#each content.collections as collection}
+					<li>
+						<a href="content/{collection.alias}">
+							{collection.name}
+						</a>
+					</li>
+				{/each}
+			</ul>
+		{/if}
+
+		{#if content.collaborators}
+			<span class="label">Collaborators:</span>
+			<ul class="collections">
+				{#each content.collaborators as user}
+					<li>
+						<a href="users/{user.username}">
+							{user.name}
+						</a>
+					</li>
+				{/each}
+			</ul>
+		{/if}
 	</aside>
 	<section>
-		<span class="label">Preview:</span>
-		<section class="gallery">
-			{#each content.previews as preview}
-				<PreviewTile item={preview} {audioPlayer}/>
-			{/each}
-		</section>
+		{#if content.previews}
+			<span class="label">Preview:</span>
+			<section class="gallery">
+				{#each content.previews as preview}
+					<PreviewTile item={preview} {audioPlayer}/>
+				{/each}
+			</section>
+		{/if}
+
+		{#if content.project}
+			<span class="label">Project:</span>
+			<a href={content.project.url}>{content.project.name}</a>
+		{/if}
 
 		{@html content.description}
 
@@ -59,15 +87,26 @@
 			{content.attribution}
 		{/if}
 
-		<span class="label">File(s):</span>
-		<section class="files">
-			{#each content.files as file}
-				<a href={file.url} download>
-					{file.name} ({file.size})
-					<span class="count">downloaded {file.dlCount} times</span>
-				</a>
-			{/each}
-		</section>
+		{#if content.art}
+			<span class="label">Collected Art:</span>
+			<section class="gallery">
+				{#each content.art as item}
+					<ArtTile {item} {audioPlayer}/>
+				{/each}
+			</section>
+		{/if}
+
+		{#if content.files}
+			<span class="label">File(s):</span>
+			<section class="files">
+				{#each content.files as file}
+					<a href={file.url} download>
+						{file.name} ({file.size})
+						<span class="count">downloaded {file.dlCount} times</span>
+					</a>
+				{/each}
+			</section>
+		{/if}
 	</section>
 </div>
 
@@ -259,6 +298,7 @@
 
 	export default {
 		components: {
+			ArtTile: '../../components/ArtTile.html',
 			PreviewTile: '../../components/PreviewTile.html'
 		},
 		data() {
