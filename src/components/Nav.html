@@ -1,7 +1,7 @@
 <nav>
 	<div class="logo">
 		<div class="sara" class:walk="loading"></div>
-		<img src="title.svg" alt="OpenGameArt.org">
+		<a href="."><img src="title.svg" alt="OpenGameArt.org"></a>
 	</div>
 	<ul class:open="open">
 		<li class="toggler"><a on:click="set({open: !open})">Menu</a></li> <!--should be an icon-->
@@ -46,11 +46,12 @@
 <style>
 	.logo {
 		display: flex;
+		align-items: center;
 	}
 
 	img {
 		max-width: 100%;
-		margin: 0.7em 0;
+		display: block;
 	}
 
 	@keyframes sara-walk {
@@ -135,11 +136,11 @@
 		position: relative;
 	}
 
-	.selected, a:hover, input[type=submit]:hover {
+	.selected, li a:hover, input[type=submit]:hover {
 		background: rgba(4, 4, 4, 0.4);
 	}
 
-	a {
+	li a {
 		color: inherit;
 		white-space: nowrap;
 		text-decoration: none;
