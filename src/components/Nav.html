@@ -1,5 +1,8 @@
 <nav>
-	<img src="title.svg" alt="OpenGameArt.org">
+	<div class="logo">
+		<div class="sara" class:walk="loading"></div>
+		<img src="title.svg" alt="OpenGameArt.org">
+	</div>
 	<ul class:open="open">
 		<li class="toggler"><a on:click="set({open: !open})">Menu</a></li> <!--should be an icon-->
 		<li class="link"><a class='{segment === undefined ? "selected" : ""}' href='.'>Home</a></li>
@@ -41,9 +44,52 @@
 </nav>
 
 <style>
+	.logo {
+		display: flex;
+	}
+
 	img {
 		max-width: 100%;
 		margin: 0.7em 0;
+	}
+
+	@keyframes sara-walk {
+		0% {
+			background-position: 0 -64px;
+		}
+
+		25% {
+			background-position: -36px -64px;
+		}
+
+		50% {
+			background-position: -72px -64px;
+		}
+
+		75% {
+			background-position: -36px -64px;
+		}
+	}
+
+	.sara {
+		background: url("/sara.png");
+
+		/* browser support for this is highly inconsistent, but the worst that can happen is that Sara is a bit blury */
+		image-rendering: pixelated;
+		image-rendering: crisp-edges;
+
+		width: 32px;
+		height: 48px;
+
+		transform: scaleX(-1);
+
+		flex-shrink: 0;
+		margin-right: 4px;
+
+	}
+
+	.sara.walk {
+		animation: sara-walk 1s infinite step-end;		
 	}
 
 	nav {

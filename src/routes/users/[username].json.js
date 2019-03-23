@@ -13,7 +13,7 @@ export function get(req, res, next) {
 			'Content-Type': 'application/json'
 		});
 
-		res.end(lookup.get(username));
+		setTimeout(() => res.end(lookup.get(username)), 1000); // pretend to be doing something
 	} else {
 		res.writeHead(404, {
 			'Content-Type': 'application/json'
