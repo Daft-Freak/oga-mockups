@@ -1,0 +1,128 @@
+<section class="container">
+	<h2>{title}</h2>
+	<a class="prev" on:click="prevItem()">←</a>
+	<a class="next" on:click="nextItem()">→</a>
+
+	<div class="slides" ref:slides>
+		{#each items as item}
+			<ArtSlide {item} {audioPlayer}/>
+		{/each}
+	</div>
+	<div class="dots">
+		{#each items as item, i}
+			<div class:selected="i == currentItem"></div>
+		{/each}
+	</div>
+</section>
+<style>
+	.container {
+		background: #b3b3b3;
+		padding: 0.5em;
+
+		position: relative;
+
+		margin: 0 1.25em 3em;
+	}
+
+	.container h2 {
+		color: white;
+	}
+
+	.next, .prev {
+		background: #b3b3b3;
+		color: white;
+		cursor: pointer;
+	
+		height: 5rem;
+		width: 5rem;
+		border-radius: 50%;
+		font-size: 3em;
+
+		display: block;
+		position: absolute;
+		top: 0;
+		bottom: 0;
+		margin: auto 0;
+		box-sizing: border-box;
+	}
+
+	.prev {
+		left: -2.5rem;
+		padding-left: 0.5rem;
+	}
+
+	.next {
+		right: -2.5rem;
+		padding-left: 2.5rem;
+	}
+
+	.slides {
+		display: flex;
+		overflow: hidden;
+	}
+
+	.dots {
+		display: flex;
+		justify-content: center;
+	}
+
+	.dots > div {
+		width: 1em;
+		height: 1em;
+		margin: 0.5em 0.25em 0;
+
+		border-radius: 50%;
+		background: #e5e5e5;
+
+		transition: background-color 1.5s;
+	}
+
+	.dots > .selected {
+		background: #00aeef;
+	}
+</style>
+
+<script>
+	import {AudioPlayer} from '../audio.js';
+
+	export default {
+		components: {
+			ArtSlide: './ArtSlide.html'
+		},
+		data() {
+			return {
+				currentItem: 0,
+				audioPlayer: new AudioPlayer()
+			};
+		},
+		methods: {
+			prevItem() {
+				let {currentItem} = this.get();
+				currentItem--;
+
+				if(currentItem < 0)
+					currentItem = this.get().items.length - 1;
+
+				this.set({currentItem});
+
+				this.refs.slides.firstChild.style.marginLeft = `-${currentItem * 100}%`;
+
+				return false;
+			},
+
+			nextItem() {
+				let {currentItem, items} = this.get();
+				currentItem++;
+
+				if(currentItem >= items.length)
+					currentItem = 0;
+
+				this.set({currentItem});
+
+				this.refs.slides.firstChild.style.marginLeft = `-${currentItem * 100}%`;
+
+				return false;
+			}
+		},
+	}
+</script>
